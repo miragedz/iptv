@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1200px-Canal%2B.png" group-title="FRANCE ",CANAL+
 http://freeiptvgen.com:25461/355169/freeiptvgen/19953734
@@ -23,5 +24,3 @@ http://freeiptvgen.com:25461/355169/freeiptvgen/19953743
 http://freeiptvgen.com:25461/355169/freeiptvgen/19953744
 #EXTINF:-1 tvg-id="" tvg-name="CINE+ CLUB HD" tvg-logo="" group-title="FRANCE ",CINE+ CLUB HD
 http://freeiptvgen.com:25461/355169/freeiptvgen/19953745
-#EXTINF:-1 tvg-id="" tvg-name="CINE CLUB HD" tvg-logo="" group-title="FRANCE ",CINE CLUB HD
-http://freeiptvgen.com:25461/355169/freeiptvgen/19953746
