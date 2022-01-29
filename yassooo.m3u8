@@ -1,0 +1,667 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1 HD (K)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1 HD (K)
+http://yassooo.com:8080/live/Manaf/Manaf123/120012.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 HD (K)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 HD (K)
+http://yassooo.com:8080/live/Manaf/Manaf123/120011.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1 SD (K)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1 SD (K)
+http://yassooo.com:8080/live/Manaf/Manaf123/120000.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 SD (K)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 SD (K)
+http://yassooo.com:8080/live/Manaf/Manaf123/119999.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1 HD (G)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1 HD (G)
+http://yassooo.com:8080/live/Manaf/Manaf123/120680.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 HD (G)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 HD (G)
+http://yassooo.com:8080/live/Manaf/Manaf123/120681.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1SD (G)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1SD (G)
+http://yassooo.com:8080/live/Manaf/Manaf123/120678.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 SD (G)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 SD (G)
+http://yassooo.com:8080/live/Manaf/Manaf123/120679.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1 HD (MS)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1 HD (MS)
+http://yassooo.com:8080/live/Manaf/Manaf123/120806.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 HD (MS)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 HD (MS)
+http://yassooo.com:8080/live/Manaf/Manaf123/120805.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 1 SD (MS)" tvg-logo="http://l.asc.vg/beINSportsMax1.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 1 SD (MS)
+http://yassooo.com:8080/live/Manaf/Manaf123/120804.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORT MAX 2 SD (MS)" tvg-logo="http://l.asc.vg/beINSportsMax2.png" group-title="BEIN SPORTS MAX - بى إن سبورت ماكس",BEIN SPORT MAX 2 SD (MS)
+http://yassooo.com:8080/live/Manaf/Manaf123/120803.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 HD" tvg-logo="http://l.asc.vg/be_in_tr_sports_01_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 01 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80034.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 HD" tvg-logo="http://l.asc.vg/be_in_tr_sports_02_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 02 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80033.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 HD" tvg-logo="http://l.asc.vg/be_in_tr_sports_03_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 03 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80032.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 HD" tvg-logo="http://l.asc.vg/beINSports1_005.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 01 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80031.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 HD" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 02 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80030.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 HD" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 03 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80029.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 HD" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 04 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80028.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 HD" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 05 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80027.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 HD" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 06 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80026.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 HD" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 07 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80025.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 HD" tvg-logo="http://l.asc.vg/be_in_mena_sports_01.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 01 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80024.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 HD" tvg-logo="http://l.asc.vg/be_in_mena_sports_02.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 02 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/80023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 FHD" tvg-logo="http://l.asc.vg/be_in_tr_sports_01_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 01 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80020.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 FHD" tvg-logo="http://l.asc.vg/be_in_tr_sports_02_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 02 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80019.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 FHD" tvg-logo="http://l.asc.vg/be_in_tr_sports_03_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Premium 03 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_01.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 01 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80017.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_02.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 02 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80016.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_03_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 03 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80015.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_04_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 04 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80014.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_05_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 05 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80013.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_06_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 06 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80012.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_07_hd.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports 07 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80011.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_01.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 01 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80010.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 FHD" tvg-logo="http://l.asc.vg/be_in_mena_sports_02.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports English 02 FHD
+http://yassooo.com:8080/live/Manaf/Manaf123/80009.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports News" tvg-logo="http://l.asc.vg/beINSportsNews.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports News
+http://yassooo.com:8080/live/Manaf/Manaf123/83323.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Global" tvg-logo="http://l.asc.vg/beINSportsGlobal.png" group-title="BEIN SPORTS HD - بي إن سبورت",beIN Sports Global
+http://yassooo.com:8080/live/Manaf/Manaf123/83322.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 HD [VIP]" tvg-logo="http://l.asc.vg/be_in_tr_sports_01_hd.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 01 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 HD [VIP]" tvg-logo="http://l.asc.vg/be_in_tr_sports_02_hd.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 02 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 HD [VIP]" tvg-logo="http://l.asc.vg/be_in_tr_sports_03_hd.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 03 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80104.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports1_005.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 01 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 02 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80102.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 03 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80101.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 04 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80100.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 05 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80099.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 06 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 07 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80097.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 HD [VIP]" tvg-logo="http://l.asc.vg/be_in_mena_sports_01.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 01 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80095.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 HD [VIP]" tvg-logo="http://l.asc.vg/be_in_mena_sports_02.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 02 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80094.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 03 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports English 03 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80093.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports French 01 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports1_005.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports French 01 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80092.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports French 02 HD [VIP]" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports French 02 HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80091.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports NBA HD [VIP]" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports NBA HD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80090.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports1_005.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 01 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80089.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 02 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80088.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports Premium 03 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80087.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports1_005.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 01 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80086.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 02 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80085.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 03 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80084.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 04 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80083.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 05 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80082.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 06 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80081.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 4K [VIP]" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS VIP - بي إن سبورت",beIN Sports 07 4K [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80080.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 01 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80079.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports2_004.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 02 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80078.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 03 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 01 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports2_004.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 02 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 03 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80074.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN PORTS 04 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN PORTS 04 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN PORTS 05 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN PORTS 05 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80072.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 06 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80071.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 07 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80070.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports English 01 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80069.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 SD [VIP]" tvg-logo="http://l.asc.vg/beINSports2_004.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports English 02 SD [VIP]
+http://yassooo.com:8080/live/Manaf/Manaf123/80068.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 01 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80116.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports2_004.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 02 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports Premium 03 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80114.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 01 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80113.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports2_004.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 02 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 03 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 04 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80110.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 05 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 06 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 SD [Gold]" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS SD - بي إن سبورت",beIN Sports 07 SD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 01 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 02 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80138.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 03 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80137.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 01 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80136.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 02 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80135.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 03 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 04 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80133.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 05 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80132.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 06 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 FHD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 07 FHD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80130.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 01 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80129.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 02 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports Premium 03 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80127.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 01 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80126.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 02 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 03 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 04 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 05 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80122.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 06 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80121.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports 07 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80120.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 01 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80119.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 02 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80118.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 03 HD [Gold]" tvg-logo="" group-title="BEIN SPORTS GOLD - بي إن سبورت",beIN Sports English 03 HD [Gold]
+http://yassooo.com:8080/live/Manaf/Manaf123/80117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 HEVC" tvg-logo="http://l.asc.vg/beINSports1_004.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 01 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80061.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 HEVC" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 02 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80060.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 HEVC" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports Premium 03 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80059.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 HEVC" tvg-logo="http://l.asc.vg/beINSports1_004.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 01 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80058.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 HEVC" tvg-logo="http://l.asc.vg/beINSports2.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 02 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80057.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 HEVC" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 03 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80056.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 HEVC" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 04 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80055.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 HEVC" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 05 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80054.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 HEVC" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 06 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80053.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 HEVC" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS HEVC - بي إن سبورت",beIN Sports 07 HEVC
+http://yassooo.com:8080/live/Manaf/Manaf123/80052.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 1 4K" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 4K
+http://yassooo.com:8080/live/Manaf/Manaf123/97375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 2 4K" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 4K
+http://yassooo.com:8080/live/Manaf/Manaf123/97374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 1 HD" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/97373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 2 HD" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/97372.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 1 SD" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 1 SD
+http://yassooo.com:8080/live/Manaf/Manaf123/97371.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport Xtra 2 SD" tvg-logo="http://l.asc.vg/beINHE.png" group-title="BEIN SPORT XTRA - بي إن سبورت إكسترا",Bein Sport Xtra 2 SD
+http://yassooo.com:8080/live/Manaf/Manaf123/97370.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 01 Low" tvg-logo="http://l.asc.vg/BeinSports1.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 01 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80155.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 02 Low" tvg-logo="http://l.asc.vg/beINSports2_003.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 02 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80154.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 03 Low" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports Premium 03 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80153.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 01 Low" tvg-logo="http://l.asc.vg/BeinSports1.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 01 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80152.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 02 Low" tvg-logo="http://l.asc.vg/beINSports2_003.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 02 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80151.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 03 Low" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 03 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80150.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 04 Low" tvg-logo="http://l.asc.vg/beINSports4.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 04 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80149.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 05 Low" tvg-logo="http://l.asc.vg/beINSports5.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 05 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80148.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 06 Low" tvg-logo="http://l.asc.vg/beINSports6.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 06 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80147.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 07 Low" tvg-logo="http://l.asc.vg/beINSports7.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports 07 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 01 Low" tvg-logo="http://l.asc.vg/BeinSports1.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 01 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80144.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 02 Low" tvg-logo="http://l.asc.vg/beINSports2_003.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 02 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80143.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports English 03 Low" tvg-logo="http://l.asc.vg/beINSports3.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports English 03 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports French 01 Low" tvg-logo="http://l.asc.vg/BeinSports1.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports French 01 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80141.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports French 02 Low" tvg-logo="http://l.asc.vg/beINSports2_003.png" group-title="BEIN SPORTS LOW - بي إن سبورت",beIN Sports French 02 Low
+http://yassooo.com:8080/live/Manaf/Manaf123/80140.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TF1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121567.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France 2 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121566.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France 3 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France 3 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121565.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France 4 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121564.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France 5 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France 5 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121563.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Arte HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Arte HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121562.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: M6" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: M6
+http://yassooo.com:8080/live/Manaf/Manaf123/121561.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: C8" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: C8
+http://yassooo.com:8080/live/Manaf/Manaf123/121560.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: W9" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: W9
+http://yassooo.com:8080/live/Manaf/Manaf123/121559.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TMC" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TMC
+http://yassooo.com:8080/live/Manaf/Manaf123/121558.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TFX" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TFX
+http://yassooo.com:8080/live/Manaf/Manaf123/121557.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NRJ 12 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NRJ 12 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121556.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BFM TV" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BFM TV
+http://yassooo.com:8080/live/Manaf/Manaf123/121555.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CNEWS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CNEWS
+http://yassooo.com:8080/live/Manaf/Manaf123/121554.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CSTAR" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CSTAR
+http://yassooo.com:8080/live/Manaf/Manaf123/121553.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Gulli" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Gulli
+http://yassooo.com:8080/live/Manaf/Manaf123/121552.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France O" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France O
+http://yassooo.com:8080/live/Manaf/Manaf123/121551.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: l'Equipe 21 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: l'Equipe 21 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121550.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TF1 SERIES FILMS HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121549.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: 6ter HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: 6ter HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121548.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CHERIE 25 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121547.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport News HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport News HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121546.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Story HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Story HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121545.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC DECOUVERTE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121544.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121543.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121542.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 3 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 3 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121541.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 4 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121540.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 1 Access HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 1 Access HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121539.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 2 Access HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 2 Access HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121538.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport 3 Access HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport 3 Access HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121537.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 5 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121536.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 6 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121535.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 7 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121534.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 8 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121533.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 9 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121532.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 10 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121531.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 11 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121530.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 12 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121529.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 13 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121528.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 14 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121527.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 15 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121526.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RMC Sport Live 16 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121525.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports 1" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports 1
+http://yassooo.com:8080/live/Manaf/Manaf123/121524.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports 2" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports 2
+http://yassooo.com:8080/live/Manaf/Manaf123/121523.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports 3" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports 3
+http://yassooo.com:8080/live/Manaf/Manaf123/121522.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 4" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 4
+http://yassooo.com:8080/live/Manaf/Manaf123/121521.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 5" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 5
+http://yassooo.com:8080/live/Manaf/Manaf123/121520.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 6" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 6
+http://yassooo.com:8080/live/Manaf/Manaf123/121519.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 7" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 7
+http://yassooo.com:8080/live/Manaf/Manaf123/121518.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 8" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 8
+http://yassooo.com:8080/live/Manaf/Manaf123/121517.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 9" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 9
+http://yassooo.com:8080/live/Manaf/Manaf123/121516.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sports MAX 10" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BeIN Sports MAX 10
+http://yassooo.com:8080/live/Manaf/Manaf123/121515.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121514.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121513.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 2 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121512.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 3 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 3 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121511.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 4 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 4 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121510.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 5 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 5 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121509.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 6 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 6 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121508.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 7 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 7 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121507.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME VIDEO 8 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AMAZON PRIME VIDEO 8 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121506.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANALSAT" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANALSAT
+http://yassooo.com:8080/live/Manaf/Manaf123/121505.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+
+http://yassooo.com:8080/live/Manaf/Manaf123/121504.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ CINEMA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+ CINEMA
+http://yassooo.com:8080/live/Manaf/Manaf123/121503.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+ DECALE
+http://yassooo.com:8080/live/Manaf/Manaf123/121502.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+ FAMILY
+http://yassooo.com:8080/live/Manaf/Manaf123/121501.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+ SERIES
+http://yassooo.com:8080/live/Manaf/Manaf123/121500.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ SPORT" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CANAL+ SPORT
+http://yassooo.com:8080/live/Manaf/Manaf123/121499.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ PREMIER
+http://yassooo.com:8080/live/Manaf/Manaf123/121498.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ FRISSON" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ FRISSON
+http://yassooo.com:8080/live/Manaf/Manaf123/121497.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ FAMIZ" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ FAMIZ
+http://yassooo.com:8080/live/Manaf/Manaf123/121496.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ EMOTION" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ EMOTION
+http://yassooo.com:8080/live/Manaf/Manaf123/121495.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ CLASSIC
+http://yassooo.com:8080/live/Manaf/Manaf123/121494.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CINE+ CLUB" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CINE+ CLUB
+http://yassooo.com:8080/live/Manaf/Manaf123/121493.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: OCS MAX" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: OCS MAX
+http://yassooo.com:8080/live/Manaf/Manaf123/121492.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: OCS CITY
+http://yassooo.com:8080/live/Manaf/Manaf123/121491.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: OCS GEANTS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: OCS GEANTS
+http://yassooo.com:8080/live/Manaf/Manaf123/121490.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: OCS CHOC" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: OCS CHOC
+http://yassooo.com:8080/live/Manaf/Manaf123/121489.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SUPER ECRAN 1" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SUPER ECRAN 1
+http://yassooo.com:8080/live/Manaf/Manaf123/121488.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SUPER ECRAN 2" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SUPER ECRAN 2
+http://yassooo.com:8080/live/Manaf/Manaf123/121487.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SUPER ECRAN 3" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SUPER ECRAN 3
+http://yassooo.com:8080/live/Manaf/Manaf123/121486.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SUPER ECRAN 4" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SUPER ECRAN 4
+http://yassooo.com:8080/live/Manaf/Manaf123/121485.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: ALTICE STUDIO HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121484.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: WARNER TV" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: WARNER TV
+http://yassooo.com:8080/live/Manaf/Manaf123/121483.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TCM CINEMA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TCM CINEMA
+http://yassooo.com:8080/live/Manaf/Manaf123/121482.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Paramount Channel HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Paramount Channel HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121481.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Paramount Channel Decale HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Paramount Channel Decale HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121480.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: ACTION HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: ACTION HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121479.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SERIE CLUB HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121478.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SYFY HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121477.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: 13EME RUE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121476.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AB1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AB1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121475.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AB3 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: AB3 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: PARIS PREMIERE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121473.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RTL 9 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RTL 9 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121472.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BET HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BET HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121471.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: COMEDIE+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: COMEDIE+
+http://yassooo.com:8080/live/Manaf/Manaf123/121470.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MY COMEDY" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MY COMEDY
+http://yassooo.com:8080/live/Manaf/Manaf123/121469.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV Breizh" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TV Breizh
+http://yassooo.com:8080/live/Manaf/Manaf123/121468.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TEVA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TEVA
+http://yassooo.com:8080/live/Manaf/Manaf123/121467.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: E! ENTERTAINMENT HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121466.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MTV HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121465.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MCM" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MCM
+http://yassooo.com:8080/live/Manaf/Manaf123/121464.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PIWI+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: PIWI+
+http://yassooo.com:8080/live/Manaf/Manaf123/121463.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Tiji" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Tiji
+http://yassooo.com:8080/live/Manaf/Manaf123/121462.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISNEY CHANNEL
+http://yassooo.com:8080/live/Manaf/Manaf123/121461.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISNEY CINEMA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISNEY CINEMA
+http://yassooo.com:8080/live/Manaf/Manaf123/121460.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISNEY JUNIOR" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISNEY JUNIOR
+http://yassooo.com:8080/live/Manaf/Manaf123/121459.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISNEY XD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISNEY XD
+http://yassooo.com:8080/live/Manaf/Manaf123/121458.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NICKELODEON" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NICKELODEON
+http://yassooo.com:8080/live/Manaf/Manaf123/121457.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NICKELODEON JUNIOR
+http://yassooo.com:8080/live/Manaf/Manaf123/121456.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NICKELODEON TEEN" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NICKELODEON TEEN
+http://yassooo.com:8080/live/Manaf/Manaf123/121455.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Boomerang" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Boomerang
+http://yassooo.com:8080/live/Manaf/Manaf123/121454.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BOING
+http://yassooo.com:8080/live/Manaf/Manaf123/121453.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TELETOON+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TELETOON+
+http://yassooo.com:8080/live/Manaf/Manaf123/121452.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Canal J" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Canal J
+http://yassooo.com:8080/live/Manaf/Manaf123/121451.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CARTOON NETWORK" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CARTOON NETWORK
+http://yassooo.com:8080/live/Manaf/Manaf123/121450.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Toonami" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Toonami
+http://yassooo.com:8080/live/Manaf/Manaf123/121449.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MANGAS HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121448.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: J-ONE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: J-ONE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121447.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Game One" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Game One
+http://yassooo.com:8080/live/Manaf/Manaf123/121446.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: INFOSPORT+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: INFOSPORT+
+http://yassooo.com:8080/live/Manaf/Manaf123/121445.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: FOOT+" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: FOOT+
+http://yassooo.com:8080/live/Manaf/Manaf123/121444.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: EUROSPORT 1" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: EUROSPORT 1
+http://yassooo.com:8080/live/Manaf/Manaf123/121443.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: EUROSPORT 2" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: EUROSPORT 2
+http://yassooo.com:8080/live/Manaf/Manaf123/121442.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Auto Moto HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Auto Moto HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121441.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Equidia HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Equidia HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121440.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: GOLF  HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: GOLF  HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121439.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DECOUVERTES" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DECOUVERTES
+http://yassooo.com:8080/live/Manaf/Manaf123/121438.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CRIME DISTRICT HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121437.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISCOVERY HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISCOVERY HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121436.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISCOVERY SCI HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISCOVERY SCI HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121435.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISCOVERY INVESTIGATION HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121434.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: DISCOVERY FAMILY HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: DISCOVERY FAMILY HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121433.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: National Geographic HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: National Geographic HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121432.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Nat geo Wild" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Nat geo Wild
+http://yassooo.com:8080/live/Manaf/Manaf123/121431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PLANETE +" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: PLANETE +
+http://yassooo.com:8080/live/Manaf/Manaf123/121430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PLANETE+ CI HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: PLANETE+ CI HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PLANETE A&E" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: PLANETE A&E
+http://yassooo.com:8080/live/Manaf/Manaf123/121428.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Histoire" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Histoire
+http://yassooo.com:8080/live/Manaf/Manaf123/121427.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TOUTE L'HISTOIRE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121426.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Voyage HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Voyage HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121425.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SEASONS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SEASONS
+http://yassooo.com:8080/live/Manaf/Manaf123/121424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: ANIMAUX HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121423.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CHASSE ET PECHE HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Ushuaia TV" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Ushuaia TV
+http://yassooo.com:8080/live/Manaf/Manaf123/121421.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: SCIENCES ET VIE TV" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: SCIENCES ET VIE TV
+http://yassooo.com:8080/live/Manaf/Manaf123/121420.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TREK HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TREK HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121419.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MTV HITS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MTV HITS
+http://yassooo.com:8080/live/Manaf/Manaf123/121418.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MTV DANCE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: MTV DANCE
+http://yassooo.com:8080/live/Manaf/Manaf123/121417.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NRJ HITS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NRJ HITS
+http://yassooo.com:8080/live/Manaf/Manaf123/121416.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: M6 Music
+http://yassooo.com:8080/live/Manaf/Manaf123/121415.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TRACE URBAN" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TRACE URBAN
+http://yassooo.com:8080/live/Manaf/Manaf123/121414.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TRACE AFRICA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TRACE AFRICA
+http://yassooo.com:8080/live/Manaf/Manaf123/121413.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TRACE MZIKI" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TRACE MZIKI
+http://yassooo.com:8080/live/Manaf/Manaf123/121412.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TRACE NAIJA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TRACE NAIJA
+http://yassooo.com:8080/live/Manaf/Manaf123/121411.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TRACE TOCA" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TRACE TOCA
+http://yassooo.com:8080/live/Manaf/Manaf123/121410.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bblack! Classik" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Bblack! Classik
+http://yassooo.com:8080/live/Manaf/Manaf123/121409.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bblack! Africa" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Bblack! Africa
+http://yassooo.com:8080/live/Manaf/Manaf123/121408.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bblack! Caribbean" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Bblack! Caribbean
+http://yassooo.com:8080/live/Manaf/Manaf123/121407.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Mezzo" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Mezzo
+http://yassooo.com:8080/live/Manaf/Manaf123/121406.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Mezzo Live HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Mezzo Live HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121405.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RFM TV" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RFM TV
+http://yassooo.com:8080/live/Manaf/Manaf123/121404.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: GENERALISTE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: GENERALISTE
+http://yassooo.com:8080/live/Manaf/Manaf123/121403.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV3V" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TV3V
+http://yassooo.com:8080/live/Manaf/Manaf123/121402.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV5 STYLE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TV5 STYLE
+http://yassooo.com:8080/live/Manaf/Manaf123/121401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV8" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TV8
+http://yassooo.com:8080/live/Manaf/Manaf123/121400.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CHAINES INFOS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: CHAINES INFOS
+http://yassooo.com:8080/live/Manaf/Manaf123/121399.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BFM Business" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BFM Business
+http://yassooo.com:8080/live/Manaf/Manaf123/121398.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BFM PARIS" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: BFM PARIS
+http://yassooo.com:8080/live/Manaf/Manaf123/121397.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV5 MONDE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: TV5 MONDE
+http://yassooo.com:8080/live/Manaf/Manaf123/121396.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: EURONEWS HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: EURONEWS HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121395.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: FRANCE 24
+http://yassooo.com:8080/live/Manaf/Manaf123/121394.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France info" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: France info
+http://yassooo.com:8080/live/Manaf/Manaf123/121393.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: LCI HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: LCI HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121392.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: LCP" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: LCP
+http://yassooo.com:8080/live/Manaf/Manaf123/121391.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RT FRANCE" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: RT FRANCE
+http://yassooo.com:8080/live/Manaf/Manaf123/121390.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Regby + HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Regby + HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121389.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121388.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 2 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121387.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 3 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 3 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121386.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 4 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 4 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121385.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 5 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 5 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121384.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 6 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 6 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121383.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 7 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 7 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121382.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: NETFLIX FILM 8 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: NETFLIX FILM 8 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Magico CINEMA HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Magico CINEMA HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Magico CINEMA ACTION HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Magico CINEMA ACTION HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Magico CINEMA ACTION 2 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Magico CINEMA ACTION 2 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Magico CINEMA COMEDY HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Magico CINEMA COMEDY HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Magico CINEMA DRAME 1 HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Magico CINEMA DRAME 1 HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Netfllix CINEMA GOLD HD" tvg-logo="" group-title="FRANCE HD - فرنسا",FR: Netfllix CINEMA GOLD HD
+http://yassooo.com:8080/live/Manaf/Manaf123/121375.ts
