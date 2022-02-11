@@ -1,80 +1,104 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 01 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31600.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 01 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31555.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 02 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31599.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 02 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31554.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 03 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31598.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 03 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31553.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 04 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31597.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 04 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31552.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 05 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31596.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 05 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31551.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 06 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31595.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 06 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31550.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport 07 (240P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31594.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport 07 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31549.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 01 (240P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 01 (240P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31603.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31548.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 02 (240P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 02 (240P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31602.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31547.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (240P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 03 (240P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 03 (240P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31601.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (480P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31546.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 1M" tvg-logo="" group-title="beIN Sport",beIN Sports Max 1 1M
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38941.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 H265" tvg-logo="" group-title="beIN Sport",beIN Sports Max 1 H265
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38945.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 HD" tvg-logo="" group-title="beIN Sport",beIN Sports Max 1 HD
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38943.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 low" tvg-logo="" group-title="beIN Sport",beIN Sports Max 1 low
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38939.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 1M" tvg-logo="" group-title="beIN Sport",beIN Sports Max 2 1M
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38942.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 H265" tvg-logo="" group-title="beIN Sport",beIN Sports Max 2 H265
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38946.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 HD" tvg-logo="" group-title="beIN Sport",beIN Sports Max 2 HD
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38944.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 low" tvg-logo="" group-title="beIN Sport",beIN Sports Max 2 low
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/38940.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 01 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 01 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31600.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 02 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31599.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 03 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31598.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 04 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31597.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 05 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31596.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 06 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31595.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 07 (240P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31594.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 01 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31593.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 02 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 02 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31592.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport Premium 03 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 03 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31591.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 01 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 01 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31588.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 02 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 02 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31587.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 03 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 03 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31586.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 04 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 04 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31585.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 05 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 05 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 06 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 06 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31583.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (360P)" tvg-logo="" group-title="beIN Sport",beIN Sport 07 (360P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 07 (360P)
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31582.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 01 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31548.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 02 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31547.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 03 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31546.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 01 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31555.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 02 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31554.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 03 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31553.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 04 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31552.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 05 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31551.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 06 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31550.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 07 (480P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31549.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31529.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31528.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31527.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 01 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31536.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 02 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31535.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 03 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31534.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 04 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31533.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 05 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31532.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 06 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31531.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 07 (720P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31530.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 01 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31498.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 02 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31497.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 03 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31496.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 01 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31493.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 02 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31492.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 03 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31491.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 04 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31490.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31489.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31488.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31487.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TF1 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16990.png" group-title="FRANCE TV",|FR| TF1 HD
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/2341.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17096.jpg" group-title="FRANCE TV",|FR| AB 1
