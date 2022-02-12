@@ -1,0 +1,709 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR: TF1 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/tf1.png" group-title="TNT HD",FR: TF1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/703.ts
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: TFX HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/tfx-fr.png" group-title="TNT HD",FR: TFX HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1936.ts
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR: TF1 Series Films HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/tf1-series-films-fr.png" group-title="TNT HD",FR: TF1 Series Films HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/2216.ts
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/france2-fr.png" group-title="TNT HD",FR: FRANCE 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/718.ts
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/france3-fr.png" group-title="TNT HD",FR: FRANCE 3 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/717.ts
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/france4-fr.png" group-title="TNT HD",FR: FRANCE 4 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/716.ts
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/france5-fr.png" group-title="TNT HD",FR: FRANCE 5 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/715.ts
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="FR: M6 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/m6_fr.png" group-title="TNT HD",FR: M6 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/711.ts
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR: W9 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/w9_fr.png" group-title="TNT HD",FR: W9 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/700.ts
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR: TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/120px-TMC_logo_2016.svg.png" group-title="TNT HD",FR: TMC HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/816.ts
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="FR: ARTE HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/arte_fr.png" group-title="TNT HD",FR: ARTE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/745.ts
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_c_8.png" group-title="TNT HD",FR: C8 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/728.ts
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="FR: 6TER HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/6ter_fr.png" group-title="TNT HD",FR: 6TER HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1935.ts
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR: C Star HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/cstar.png" group-title="TNT HD",FR: C Star HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143701.ts
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="FR: NRJ12 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/nrj_fr_12.png" group-title="TNT HD",FR: NRJ12 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/706.ts
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/cherie25-fr.png" group-title="TNT HD",FR: CHERIE 25 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22224.ts
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR: RMC Story HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc-story.png" group-title="TNT HD",FR: RMC Story HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143702.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: 13eme Rue HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/13eme.png" group-title="DIVERTISSEMENT",FR: 13eme Rue HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143704.ts
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR: RTL 9 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/rtl9.jpg" group-title="DIVERTISSEMENT",FR: RTL 9 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1932.ts
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="FR: TV Breizh  HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/Breizh_tv_logo_V2-RVB.png" group-title="DIVERTISSEMENT",FR: TV Breizh  HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22219.ts
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: Teva HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/teva_fr.png" group-title="DIVERTISSEMENT",FR: Teva HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/754.ts
+#EXTINF:-1 tvg-id="Syfy HD FR" tvg-name="FR: SYFY HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/syfy_us_global.png" group-title="DIVERTISSEMENT",FR: SYFY HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/779.ts
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR: BET HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/bet-france-us-fr.png" group-title="DIVERTISSEMENT",FR: BET HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22223.ts
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ab1.png" group-title="DIVERTISSEMENT",FR: AB1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3988.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AB3 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ab3.png" group-title="DIVERTISSEMENT",FR: AB3 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22226.ts
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/paris_premiere.png" group-title="DIVERTISSEMENT",FR: Paris Premiere HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22225.ts
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="FR: Comedie+  HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_comedie_plus.png" group-title="DIVERTISSEMENT",FR: Comedie+  HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3992.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Serie Club HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/serie.png" group-title="DIVERTISSEMENT",FR: Serie Club HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143705.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: Action HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/action_fr.png" group-title="Canal+ & Cinema",FR: Action HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/747.ts
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR: Canal+ HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_clair.png" group-title="Canal+ & Cinema",FR: Canal+ HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/743.ts
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="FR: Canal+ Decale HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_decale.png" group-title="Canal+ & Cinema",FR: Canal+ Decale HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/738.ts
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cinema.png" group-title="Canal+ & Cinema",FR: Canal+ Cinema HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/742.ts
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="FR: Canal+ Kids HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_family.png" group-title="Canal+ & Cinema",FR: Canal+ Kids HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/741.ts
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: Canal+ Series HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_series.png" group-title="Canal+ & Cinema",FR: Canal+ Series HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/740.ts
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_sport.png" group-title="Canal+ & Cinema",FR: Canal+ Sport HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/739.ts
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="FR: Cine+ Emotion HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cine_plus_emotion.png" group-title="Canal+ & Cinema",FR: Cine+ Emotion HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/734.ts
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="FR: Cine+ Frisson HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cine_plus_frisson.png" group-title="Canal+ & Cinema",FR: Cine+ Frisson HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/732.ts
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="FR: Cine+ Premier HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cine_plus_premier.png" group-title="Canal+ & Cinema",FR: Cine+ Premier HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/731.ts
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="FR: Cine+ Classic HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cine_plus_classic.png" group-title="Canal+ & Cinema",FR: Cine+ Classic HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/730.ts
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="FR: Cine+ Club HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_cine_plus_club.png" group-title="Canal+ & Cinema",FR: Cine+ Club HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3990.ts
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="FR: Ocs Max HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ocs_max.png" group-title="Canal+ & Cinema",FR: Ocs Max HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3130.ts
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="FR: Ocs City HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ocs_city.png" group-title="Canal+ & Cinema",FR: Ocs City HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3129.ts
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="FR: Ocs Choc HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ocs_choc.png" group-title="Canal+ & Cinema",FR: Ocs Choc HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1938.ts
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="FR: Ocs Geant HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ocs_geants.png" group-title="Canal+ & Cinema",FR: Ocs Geant HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1937.ts
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="FR: Paramount Decale HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/paramount_channel_us.png" group-title="Canal+ & Cinema",FR: Paramount Decale HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22217.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/paramount_channel_us.png" group-title="Canal+ & Cinema",FR: Paramount Channel HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22240.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="FR: TCM Cinema HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/tcm_cinema_fr.png" group-title="Canal+ & Cinema",FR: TCM Cinema HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22218.ts
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="FR: Warner TV HD" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tv-direct.fr%2Fassets%2Flogo%2Fchaines%2Fwarner-tv.jpg&imgrefurl=https%3A%2F%2Fwww.tv-direct.fr%2Flive%2Fwarner-tv&tbnid=xbU-rmDp2ipA2M&vet=12ahUKEwiX3c612o7vAhVC_4UKHTS-AmUQMygAegUIARCWAQ..i&docid=zlz" group-title="Canal+ & Cinema",FR: Warner TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22221.ts
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR: Crime District HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/crime_district_fr.png" group-title="Canal+ & Cinema",FR: Crime District HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22227.ts
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="FR: Novelas HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/novelas-tv-fr.png" group-title="Canal+ & Cinema",FR: Novelas HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143703.ts
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="FR: Canal J HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canal_j_fr.png" group-title="ENFANTS",FR: Canal J HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/818.ts
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="FR: Boing HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/boing_fr.png" group-title="ENFANTS",FR: Boing HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/804.ts
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="FR: Nickelodeon Junior HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/nickelodeon_junior_fr.png" group-title="ENFANTS",FR: Nickelodeon Junior HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/21698.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR: Disney Junior HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/disney_junior_us.png" group-title="ENFANTS",FR: Disney Junior HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/21699.ts
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="FR: Piwi HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_piwi_plus.png" group-title="ENFANTS",FR: Piwi HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22236.ts
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR:Game One HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/game_one.png" group-title="ENFANTS",FR:Game One HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22237.ts
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="FR: Toonami HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/toonami.png" group-title="ENFANTS",FR: Toonami HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22238.ts
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="FR: Gulli HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/gulli_fr.png" group-title="ENFANTS",FR: Gulli HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/713.ts
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR: Mangas HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/mangas_fr.png" group-title="ENFANTS",FR: Mangas HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/819.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="FR: Cartoon Network HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/cartoon_network_global.png" group-title="ENFANTS",FR: Cartoon Network HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/789.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="FR: Boomrang HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/boomerang_global.png" group-title="ENFANTS",FR: Boomrang HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/788.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Nickelodeon Teen HD" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="ENFANTS",FR: Nickelodeon Teen HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143708.ts
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR: Disney Channel HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/disney_channel_global.png" group-title="ENFANTS",FR: Disney Channel HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/772.ts
+#EXTINF:-1 tvg-id="TeleTOONplus1.fr" tvg-name="FR: Teletoon+ HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_teletoon_plus.png" group-title="ENFANTS",FR: Teletoon+ HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/802.ts
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR: Tiji HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/tiji_fr.png" group-title="ENFANTS",FR: Tiji HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/2790.ts
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: Nickelodeon HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/nickelodeon_us.png" group-title="ENFANTS",FR: Nickelodeon HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1939.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: C News HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/Cnews.png" group-title="INFORMATIONS",FR: C News HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143711.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France 24 HD" tvg-logo="http://files.rednetcontent.com/chlogo/FRANCE_24_logo.png" group-title="INFORMATIONS",FR: France 24 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143716.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: I24 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/24NEWS1.png" group-title="INFORMATIONS",FR: I24 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143717.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: LCI" tvg-logo="http://logo.lynxiptv.com/Logo/france/lci-fr.png" group-title="INFORMATIONS",FR: LCI
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22231.ts
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="FR: LCP" tvg-logo="http://logo.lynxiptv.com/Logo/france/lcp-tnt-fr.png" group-title="INFORMATIONS",FR: LCP
+http://live.lynxiptv.xyz:80/live/haydar/123456789/4090.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: France Info HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/france?nfo.png" group-title="INFORMATIONS",FR: France Info HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143712.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: FBFM Business" tvg-logo="http://files.rednetcontent.com/chlogo2/french/bfm_fr_business.png" group-title="INFORMATIONS",FR: FBFM Business
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143713.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV5 Monde Europa HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/tvmondee.png" group-title="INFORMATIONS",FR: TV5 Monde Europa HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143714.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: TV5 Monde Maghreb Orient HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/tvmondee.png" group-title="INFORMATIONS",FR: TV5 Monde Maghreb Orient HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143715.ts
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="FR: EURONEWS" tvg-logo="http://logo.lynxiptv.com/Logo/france/euronews_fr.png" group-title="INFORMATIONS",FR: EURONEWS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1940.ts
+#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="FR: BFMTV HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/bfm_fr_tv.png" group-title="INFORMATIONS",FR: BFMTV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/744.ts
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: EQUIDIA LIVE" tvg-logo="http://logo.lynxiptv.com/Logo/france/equidia-fr.png" group-title="INFORMATIONS",FR: EQUIDIA LIVE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22235.ts
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="FR: E! HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/e_global_us.png" group-title="CULTURE",FR: E! HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22220.ts
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR: Planete+ HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/planete_plus.png" group-title="CULTURE",FR: Planete+ HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/760.ts
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: Planete+ CI HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/planete_plus_crime_investigation.png" group-title="CULTURE",FR: Planete+ CI HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/801.ts
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR: Planete  A+E HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/planete_plus_action_experience.png" group-title="CULTURE",FR: Planete  A+E HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3127.ts
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR: National Geo HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/nat_geo_us.png" group-title="CULTURE",FR: National Geo HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/766.ts
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: Season HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_seasons.png" group-title="CULTURE",FR: Season HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22229.ts
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="FR: Discovery HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/discovery_global_us.png" group-title="CULTURE",FR: Discovery HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/1934.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/discovery-science-france-us-fr.png" group-title="CULTURE",FR: Discovery Science HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/823.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Discovery Investigation HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/Investigation1_.png" group-title="CULTURE",FR: Discovery Investigation HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143706.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Discovery Family HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/family.png" group-title="CULTURE",FR: Discovery Family HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143707.ts
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: Ushuaia HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/ushuaia_tv.png" group-title="CULTURE",FR: Ushuaia HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/749.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: Animaux HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/animaux_fr.png" group-title="CULTURE",FR: Animaux HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/746.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="FR: Nat Geo Wild HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/nat_geo_wild_us.png" group-title="CULTURE",FR: Nat Geo Wild HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/822.ts
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: Chasse et Peche HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/chasse_et_peche.png" group-title="CULTURE",FR: Chasse et Peche HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/736.ts
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: Toute L'histoire HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/histoire_fr.png" group-title="CULTURE",FR: Toute L'histoire HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22230.ts
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="FR: Science Et Vie HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/science_et_vie_tv_fr.png" group-title="CULTURE",FR: Science Et Vie HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/814.ts
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="FR: Histoire HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/histoire_fr.png" group-title="CULTURE",FR: Histoire HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/4089.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR: Trek HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/trek_fr.png" group-title="CULTURE",FR: Trek HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/4082.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/rmc-decouverte-fr.png" group-title="CULTURE",FR: RMC HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/2730.ts
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="FR: MCM TOP" tvg-logo="http://files.rednetcontent.com/chlogo2/french/MCM_Top_logo.png" group-title="MUSIQUE",FR: MCM TOP
+http://live.lynxiptv.xyz:80/live/haydar/123456789/25950.ts
+#EXTINF:-1 tvg-id="MCM HD FR" tvg-name="FR: MCM" tvg-logo="http://files.rednetcontent.com/chlogo2/french/mcmlogo.png" group-title="MUSIQUE",FR: MCM
+http://live.lynxiptv.xyz:80/live/haydar/123456789/25949.ts
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="FR: NRJ HITS" tvg-logo="http://logo.lynxiptv.com/Logo/france/nrj_fr_12.png" group-title="MUSIQUE",FR: NRJ HITS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/25948.ts
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="FR: M6 Music HD" tvg-logo="https://pbs.twimg.com/profile_images/1130782304111157249/SMnn4khE_400x400.png" group-title="MUSIQUE",FR: M6 Music HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/25947.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MTV" tvg-logo="http://logo.lynxiptv.com/Logo/france/mtv_us.png" group-title="MUSIQUE",FR: MTV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/4086.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: MTV Hits" tvg-logo="http://logo.lynxiptv.com/Logo/france/mtv_hits_us_global.png" group-title="MUSIQUE",FR: MTV Hits
+http://live.lynxiptv.xyz:80/live/haydar/123456789/4087.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Mezzo HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/mezzo.png" group-title="MUSIQUE",FR: Mezzo HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143710.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Trace Urban HD" tvg-logo="http://files.rednetcontent.com/chlogo2/french/Traceur.png" group-title="MUSIQUE",FR: Trace Urban HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/143709.ts
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="FR: L Equipe 21" tvg-logo="http://logo.lynxiptv.com/Logo/france/l_equipe_fr.png" group-title="French Sports",FR: L Equipe 21
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3710.ts
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="FR: beinHD Sports 1" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_01.png" group-title="French Sports",FR: beinHD Sports 1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/17.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bein Sports 1 FHD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_01.png" group-title="French Sports",FR: Bein Sports 1 FHD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/152063.ts
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="FR: beinHD Sports 2" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_02.png" group-title="French Sports",FR: beinHD Sports 2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/18.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bein Sports 2 FHD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_02.png" group-title="French Sports",FR: Bein Sports 2 FHD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/152064.ts
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="FR: beinHD Sports 3" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_03.png" group-title="French Sports",FR: beinHD Sports 3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/19.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Bein Sports 3 FHD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_03.png" group-title="French Sports",FR: Bein Sports 3 FHD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/152065.ts
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="FR: BeIN Sport Max 4 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max.png" group-title="French Sports",FR: BeIN Sport Max 4 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3902.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sport Max 5 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max.png" group-title="French Sports",FR: BeIN Sport Max 5 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/135399.ts
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="FR: BeIN Sport Max 6 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max_06_hd.png" group-title="French Sports",FR: BeIN Sport Max 6 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3904.ts
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="FR: BeIN Sport Max 7 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max_07_hd.png" group-title="French Sports",FR: BeIN Sport Max 7 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/3965.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sport Max 8 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max.png" group-title="French Sports",FR: BeIN Sport Max 8 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/135400.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sport Max 9 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max.png" group-title="French Sports",FR: BeIN Sport Max 9 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/135401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BeIN Sport Max 10 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/be_in_mena_sports_max.png" group-title="French Sports",FR: BeIN Sport Max 10 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/135402.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Eurosport 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/Euro-Sport.png" group-title="French Sports",FR: Eurosport 1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/141052.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Eurosport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/Euro-Sport.png" group-title="French Sports",FR: Eurosport 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/141053.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 1 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124279.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 2 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 3 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 3 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124281.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 4 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 4 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 5 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 5 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 6 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 6 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 7 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 7 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124285.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: AMAZON PRIME 8 HD" tvg-logo="" group-title="French Sports",FR: AMAZON PRIME 8 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/124286.ts
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/rmc-sport-1-fr.png" group-title="French Sports",FR: RMC Sport 1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/15441.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://logo.lynxiptv.com/Logo/france/rmc-sport-2-fr.png" group-title="French Sports",FR: RMC Sport 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/15442.ts
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="FR: GOLF" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_golf_plus.png" group-title="French Sports",FR: GOLF
+http://live.lynxiptv.xyz:80/live/haydar/123456789/22234.ts
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="FR: INFOSPORT+" tvg-logo="http://logo.lynxiptv.com/Logo/france/canalplus_fr_infosport_plus.png" group-title="French Sports",FR: INFOSPORT+
+http://live.lynxiptv.xyz:80/live/haydar/123456789/757.ts
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="VIP AR: Bein Sport HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Beinsportlogo.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67373.ts
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsportnewss.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport News HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67374.ts
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="VIP AR: Bein Sport NBA HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsportnba.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport NBA HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67391.ts
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="Bein Sport Premium1 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-1-qa.png" group-title="beIN SPORTS HD SD",Bein Sport Premium1 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67742.ts
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="Bein Sport Premium2 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-2-qa.png" group-title="beIN SPORTS HD SD",Bein Sport Premium2 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67743.ts
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="Bein Sport Premium3 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni%20klas%C3%B6r/bein-sports-premium-3-qa.png" group-title="beIN SPORTS HD SD",Bein Sport Premium3 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67744.ts
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="Bein Sport HD1 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/Beinsport1.png" group-title="beIN SPORTS HD SD",Bein Sport HD1 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67745.ts
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="Bein Sport HD2 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport2.png" group-title="beIN SPORTS HD SD",Bein Sport HD2 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67746.ts
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="Bein Sport HD3 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport3.png" group-title="beIN SPORTS HD SD",Bein Sport HD3 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67747.ts
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="Bein Sport HD4 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport4.png" group-title="beIN SPORTS HD SD",Bein Sport HD4 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67748.ts
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sport HD5 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport5.png" group-title="beIN SPORTS HD SD",Bein Sport HD5 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67749.ts
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sport HD6 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport6.png" group-title="beIN SPORTS HD SD",Bein Sport HD6 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67750.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="Bein Sport HD7 720" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport7.png" group-title="beIN SPORTS HD SD",Bein Sport HD7 720
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67751.ts
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="VIP AR: Bein Sports Premium 1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports Premium 1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67375.ts
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="VIP AR: Bein Sports Premium 2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports Premium 2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67376.ts
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="VIP AR: Bein Sports Premium 3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-3-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports Premium 3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67377.ts
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="VIP AR: Bein Sports HD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/Beinsport1.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67378.ts
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="VIP AR: Bein Sports HD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport2.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67379.ts
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="VIP AR: Bein Sports HD3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport3.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67380.ts
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="VIP AR: Bein Sports HD4" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport4.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD4
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67381.ts
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="VIP AR: Bein Sports HD5" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport5.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD5
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67382.ts
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="VIP AR: Bein Sports HD6" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport6.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD6
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67383.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="VIP AR: Bein Sports HD7" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport7.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports HD7
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67384.ts
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="VIP AR: Bein Sports Extra 1 HD" tvg-logo="http://logo.lynxiptv.com/Logo/beinsport/bein-sports-xtra-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports Extra 1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67385.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP AR: Bein Sport Xtra 2 HD" tvg-logo="" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Xtra 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/116397.ts
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="VIP AR: Bein Sports French HD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-french-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports French HD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67388.ts
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="VIP AR: Bein Sports French HD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-french-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports French HD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67389.ts
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="VIP AR: Bein Sports English HD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports English HD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67390.ts
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="VIP AR: Bein Sports English HD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports English HD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67386.ts
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="VIP AR: Bein Sports English HD3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-3-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sports English HD3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67387.ts
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="VIP AR: Bein Sport Premium SD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Premium SD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67392.ts
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="VIP AR: Bein Sport Premium SD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Premium SD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67393.ts
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="VIP AR: Bein Sport Premium SD3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-premium-3-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Premium SD3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67394.ts
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="VIP AR: Bein Sport SD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/Beinsport1.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67395.ts
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="VIP AR: Bein Sport SD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport3.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67396.ts
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="VIP AR: Bein Sport SD3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport3.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67397.ts
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="VIP AR: Bein Sport SD4" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport4.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD4
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67398.ts
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="VIP AR: Bein Sport SD5" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport5.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD5
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67399.ts
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="VIP AR: Bein Sport SD6" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport6.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD6
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67400.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="VIP AR: Bein Sport SD7" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/beinsport7.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport SD7
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67401.ts
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="VIP AR: Bein Sport Extra SD1" tvg-logo="http://logo.lynxiptv.com/Logo/beinsport/bein-sports-xtra-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Extra SD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67402.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP AR: Bein Sport Xtra SD 2" tvg-logo="" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport Xtra SD 2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/116398.ts
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="VIP AR: Bein Sport French SD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-french-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport French SD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67405.ts
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="VIP AR: Bein Sport French SD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-french-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport French SD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67406.ts
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="VIP AR: Bein Sport English SD1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-1-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport English SD1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67407.ts
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="VIP AR: Bein Sport English SD2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-2-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport English SD2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67403.ts
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="VIP AR: Bein Sport English SD3" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasör/bein-sports-english-3-qa.png" group-title="beIN SPORTS HD SD",VIP AR: Bein Sport English SD3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/67404.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ ELLES HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ ELLES HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145092.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ ACTION HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ ACTION HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145093.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ CINEMA HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ CINEMA HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145094.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ FAMILY HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ FAMILY HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145095.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ POP OUEST HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ POP OUEST HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145096.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ KIDS HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ KIDS HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145097.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: CANAL+ KIDS HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: CANAL+ KIDS HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: CANAL+ CARAIBES HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: CANAL+ CARAIBES HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145099.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ POP CENTRE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ POP CENTRE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145100.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: CANAL OUTRE-MER HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: CANAL OUTRE-MER HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145101.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyCANAL: CANAL+ TOP 14 RUGBY FuLL HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",MyCANAL: CANAL+ TOP 14 RUGBY FuLL HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145102.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyCANAL: CANAL+ MOTO GP FuLL HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",MyCANAL: CANAL+ MOTO GP FuLL HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ MOTO GP HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ MOTO GP HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145104.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyCANAL: CANAL+ FORMULA 1 FuLL HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",MyCANAL: CANAL+ FORMULA 1 FuLL HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ F1 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ F1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyCANAL: CANAL+ PREMIER LEAGUE FuLL HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",MyCANAL: CANAL+ PREMIER LEAGUE FuLL HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: CANAL+ SPORT WEEKEND HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: CANAL+ SPORT WEEKEND HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ SPORT 1 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ SPORT 1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ SPORT 2 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ SPORT 2 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145110.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ SPORT 3 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ SPORT 3 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ SPORT 4 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ SPORT 4 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ SPORT 5 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ SPORT 5 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145113.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL+ TOP 14 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL+ TOP 14 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145114.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: LA 3" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: LA 3
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ALIZES GUADLOUPE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ALIZES GUADLOUPE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145116.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: WATAAA TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: WATAAA TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ZITATA TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ZITATA TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145118.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: FUSION TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: FUSION TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145119.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: TV GLOBO HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: TV GLOBO HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145120.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: TRACE GOSPEL HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: TRACE GOSPEL HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145121.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: bBLACK CARIBBEAN HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: bBLACK CARIBBEAN HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145122.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: TRACE YITI HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: TRACE YITI HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: TRACE CARIBBEAN HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: TRACE CARIBBEAN HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ES1 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ES1 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: A+ HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: A+ HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145126.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: NOVELAS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: NOVELAS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145127.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: GUYANE PREMIERE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: GUYANE PREMIERE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: GRAPHE TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: GRAPHE TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145129.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: KMT HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: KMT HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145130.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ZOUK TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ZOUK TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ATV MARTINIQUE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ATV MARTINIQUE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145132.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: MARTINIQUE PREMIERE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: MARTINIQUE PREMIERE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145133.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: ECLAIR TV HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: ECLAIR TV HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: CANAL 10 HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: CANAL 10 HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145135.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ CAR: GUADLOUPE PREMIERE HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ CAR: GUADLOUPE PREMIERE HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145136.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: PACIS TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: PACIS TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145137.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BTN RWANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BTN RWANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145138.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: GENESIS TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: GENESIS TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: FLASH TV - RWANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: FLASH TV - RWANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145140.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: AUTHENTIC TV - RWANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: AUTHENTIC TV - RWANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145141.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV1 RWANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV1 RWANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: KC 2 TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: KC 2 TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145143.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV 10" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV 10
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145144.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RWANDA TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RWANDA TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145145.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTNB" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTNB
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SSM TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SSM TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145147.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: PSTV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: PSTV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145148.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NYOTA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NYOTA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145149.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MISHAPI" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MISHAPI
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145150.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MIKUBA TV CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MIKUBA TV CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145151.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MOLIERE TV CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MOLIERE TV CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145152.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TELE 50 CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TELE 50 CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145153.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DIGITAL CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DIGITAL CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145154.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ANTENNEA RDC" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ANTENNEA RDC
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145155.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: B-ONE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: B-ONE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145156.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTN CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTN CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145157.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MCR TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MCR TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145158.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: LUX TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: LUX TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145159.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CDIRECT CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CDIRECT CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145160.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: VOX TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: VOX TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145161.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DRTV CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DRTV CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145162.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TELE CONGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TELE CONGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145163.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: GABON CULTURE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: GABON CULTURE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145164.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TELE AFRICA GABON" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TELE AFRICA GABON
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145165.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: GABON TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: GABON TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145166.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TGB" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TGB
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145167.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TVGE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TVGE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145168.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ASUNGA TV UGANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ASUNGA TV UGANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145169.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL 2 MOVIES" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL 2 MOVIES
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145170.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MEDIA PRIME" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MEDIA PRIME
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145171.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: LTM" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: LTM
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145172.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CRTV NEWS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CRTV NEWS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145173.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CRTV SPORT" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CRTV SPORT
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145174.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: EQUINOXE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: EQUINOXE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145175.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: STV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: STV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145176.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL 2 INTER" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL 2 INTER
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145177.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CRTV CAMEROUN" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CRTV CAMEROUN
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145178.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTD DJIBOUTI" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTD DJIBOUTI
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145179.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV CENTRAFRIQUE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV CENTRAFRIQUE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145180.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SAHARA TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SAHARA TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145181.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ELECTRON TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ELECTRON TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145182.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV TCHAD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV TCHAD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145183.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: FARINWATA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: FARINWATA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145184.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BONFEREY" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BONFEREY
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145185.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DOUNIA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DOUNIA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTN TELE SAHEL - NIGER" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTN TELE SAHEL - NIGER
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145187.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: eTELE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: eTELE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145188.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TVC BENINOISE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TVC BENINOISE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145189.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: GOLF TV AFRICA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: GOLF TV AFRICA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145190.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL 3 BENIN" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL 3 BENIN
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145191.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ORTB" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ORTB
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145192.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TLS AFRICA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TLS AFRICA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145193.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV7" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV7
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145194.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV MAURITANIE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV MAURITANIE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145195.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ASFIYAHI SENEGAL" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ASFIYAHI SENEGAL
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145196.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DELTA TV RTDS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DELTA TV RTDS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145197.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV TOGO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV TOGO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145198.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CVK" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CVK
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145199.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: OMEGA TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: OMEGA TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145200.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CANAL 3 BURKINABé" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CANAL 3 BURKINABé
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145201.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SAVANE TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SAVANE TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145202.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: 3TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: 3TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145203.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BURKINA INFO TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BURKINA INFO TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145204.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BFL TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BFL TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145205.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTB" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTB
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145206.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: KALAC TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: KALAC TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145207.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ESPACE TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ESPACE TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145208.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CIS TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CIS TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145209.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: EVASION TV GUINEE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: EVASION TV GUINEE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145210.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTG 2 GUINEE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTG 2 GUINEE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145211.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTG GUINEE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTG GUINEE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145212.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: JOLIBA NEWS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: JOLIBA NEWS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145213.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: MANDE TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: MANDE TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145214.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: AL AFIA TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: AL AFIA TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145215.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RENOUVEAU" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RENOUVEAU
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145216.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TM 1" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TM 1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145217.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CHERIFLA TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CHERIFLA TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145218.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ORTM 2" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ORTM 2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145219.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ORTM 1" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ORTM 1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145220.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: WALF TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: WALF TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145221.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SEN TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SEN TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145222.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TFM" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TFM
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145223.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: 2STV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: 2STV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145224.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145225.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: IVOIRE MUSIC TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: IVOIRE MUSIC TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145226.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: AL BAYANE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: AL BAYANE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NCI" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NCI
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145228.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTI 1" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTI 1
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145229.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: RTI 2" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: RTI 2
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145230.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: IQRAA EUROPE AFRIQUE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: IQRAA EUROPE AFRIQUE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145231.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: GABON 24" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: GABON 24
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145232.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: AFRICA 24" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: AFRICA 24
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145233.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: A+ IVOIRE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: A+ IVOIRE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145234.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: LOVE NATURE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: LOVE NATURE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145235.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CRIME DISTRICT" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CRIME DISTRICT
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145236.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DISCOVERY SCIENCE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DISCOVERY SCIENCE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145237.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: DISCOVERY CHANNEL" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: DISCOVERY CHANNEL
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145238.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CUISINES" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CUISINES
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145239.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE URBAN" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE URBAN
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145240.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE KITOKO" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE KITOKO
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145241.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE MZIKI" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE MZIKI
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE GOSPEL" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE GOSPEL
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145243.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BbLACK AFRICA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BbLACK AFRICA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145244.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE AFRIKORA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE AFRIKORA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145245.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TRACE AFRICA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TRACE AFRICA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145246.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NBA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NBA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145247.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: BANTAMBA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: BANTAMBA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: WATA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: WATA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145249.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: LUDIKIDS" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: LUDIKIDS
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145250.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TiVi5 MONDE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TiVi5 MONDE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145251.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: ZEE MAGIC" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: ZEE MAGIC
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145252.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: EDAN" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: EDAN
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145253.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: TV 1 RWANDA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: TV 1 RWANDA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145254.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SUD 1ERE TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SUD 1ERE TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: AFRICABLE" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: AFRICABLE
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145256.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: VOX AFRICA" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: VOX AFRICA
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145257.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: SUNUYEUF TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: SUNUYEUF TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: CLIQUE TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: CLIQUE TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145259.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NOVELAS TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NOVELAS TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145260.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NOLLYWOOD EPIC" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NOLLYWOOD EPIC
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145261.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: NOLLYWOOD TV" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: NOLLYWOOD TV
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145262.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: A+" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: A+
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145263.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: IS + HD" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: IS + HD
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C+ AF: VOIR+" tvg-logo="http://logo.lynxiptv.com/images/canal+afrique.png" group-title="Canal+ Afrique",C+ AF: VOIR+
+http://live.lynxiptv.xyz:80/live/haydar/123456789/145265.ts
