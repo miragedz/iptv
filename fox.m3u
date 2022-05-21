@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 01 (240P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 1 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 01 (240P)
 http://red.ipfox.org:8080/live/ossama2022/ossama2023/31603.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 02 (240P)
 http://red.ipfox.org:8080/live/ossama2022/ossama2023/31602.ts
