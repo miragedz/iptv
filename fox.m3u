@@ -79,26 +79,6 @@ http://red.ipfox.org:8080/live/osama2022/osama2023/31532.ts
 http://red.ipfox.org:8080/live/osama2022/osama2023/31531.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 07 (720P)
 http://red.ipfox.org:8080/live/osama2022/osama2023/31530.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31498.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31497.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31496.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31493.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31492.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31491.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31490.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31489.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31488.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (1080P)" tvg-logo="" group-title="beIN Sport -1080P-",beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31487.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TF1 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16990.png" group-title="FRANCE TV",|FR| TF1 HD
 http://red.ipfox.org:8080/live/osama2022/osama2023/2341.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17096.jpg" group-title="FRANCE TV",|FR| AB 1
@@ -289,10 +269,6 @@ http://red.ipfox.org:8080/live/osama2022/osama2023/2436.ts
 http://red.ipfox.org:8080/live/osama2022/osama2023/2435.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 7" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17083.png" group-title="FRANCE TV",|FR| beIN SPORTS 7
 http://red.ipfox.org:8080/live/osama2022/osama2023/2434.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 8" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17082.png" group-title="FRANCE TV",|FR| beIN SPORTS 8
-http://red.ipfox.org:8080/live/osama2022/osama2023/2433.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 9" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17081.png" group-title="FRANCE TV",|FR| beIN SPORTS 9
-http://red.ipfox.org:8080/live/osama2022/osama2023/2432.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 10" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17089.png" group-title="FRANCE TV",|FR| beIN SPORTS 10
 http://red.ipfox.org:8080/live/osama2022/osama2023/2440.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ARTE" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17091.png" group-title="FRANCE TV",|FR| ARTE
@@ -315,3 +291,173 @@ http://red.ipfox.org:8080/live/osama2022/osama2023/2404.ts
 http://red.ipfox.org:8080/live/osama2022/osama2023/2405.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Altice Studio" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17093.png" group-title="FRANCE TV",|FR| Altice Studio
 http://red.ipfox.org:8080/live/osama2022/osama2023/2444.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPFox Exclusive 1" tvg-logo="" group-title="IPFox World",IPFox Exclusive 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/37694.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPFox Exclusive 2" tvg-logo="" group-title="IPFox World",IPFox Exclusive 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/37695.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Fairouz" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10497.jpeg" group-title="IPFox World",|Fox| IPFox Fairouz
+http://red.ipfox.org:8080/live/osama2022/osama2023/3.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Halim" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/12501.png" group-title="IPFox World",|Fox| IPFox Halim
+http://red.ipfox.org:8080/live/osama2022/osama2023/2.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox UM Kalthom" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10495.jpg" group-title="IPFox World",|Fox| IPFox UM Kalthom
+http://red.ipfox.org:8080/live/osama2022/osama2023/6.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Arabic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10534.png" group-title="IPFox World",|Fox| IPFox Movies Arabic
+http://red.ipfox.org:8080/live/osama2022/osama2023/8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/11062.png" group-title="IPFox World",|Fox| IPFox Movies Classic
+http://red.ipfox.org:8080/live/osama2022/osama2023/9.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10503.png" group-title="IPFox World",|Fox| IPFox Movies Action
+http://red.ipfox.org:8080/live/osama2022/osama2023/7.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Comedy" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10529.png" group-title="IPFox World",|Fox| IPFox Movies Comedy
+http://red.ipfox.org:8080/live/osama2022/osama2023/11.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Drama" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10530.png" group-title="IPFox World",|Fox| IPFox Movies Drama
+http://red.ipfox.org:8080/live/osama2022/osama2023/12.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Horror" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10531.png" group-title="IPFox World",|Fox| IPFox Movies Horror
+http://red.ipfox.org:8080/live/osama2022/osama2023/13.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Kids" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10532.png" group-title="IPFox World",|Fox| IPFox Movies Kids
+http://red.ipfox.org:8080/live/osama2022/osama2023/14.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Thriller" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10533.png" group-title="IPFox World",|Fox| IPFox Movies Thriller
+http://red.ipfox.org:8080/live/osama2022/osama2023/15.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box Aflam 1" tvg-logo="" group-title="IPFox World",|Fox| Box Aflam 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/30476.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box Aflam 2" tvg-logo="" group-title="IPFox World",|Fox| Box Aflam 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/30475.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box CLASSIC" tvg-logo="" group-title="IPFox World",|Fox| Box CLASSIC
+http://red.ipfox.org:8080/live/osama2022/osama2023/30471.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box ACTION 1" tvg-logo="" group-title="IPFox World",|Fox| Box ACTION 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/30474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box ACTION 2" tvg-logo="" group-title="IPFox World",|Fox| Box ACTION 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/30473.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box HORROR" tvg-logo="" group-title="IPFox World",|Fox| Box HORROR
+http://red.ipfox.org:8080/live/osama2022/osama2023/30472.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ismael Yassin" tvg-logo="" group-title="IPFox World",|Fox| Ismael Yassin
+http://red.ipfox.org:8080/live/osama2022/osama2023/31950.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Adel Emam" tvg-logo="" group-title="IPFox World",|Fox| Adel Emam
+http://red.ipfox.org:8080/live/osama2022/osama2023/31949.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ahmed Zaki" tvg-logo="" group-title="IPFox World",|Fox| Ahmed Zaki
+http://red.ipfox.org:8080/live/osama2022/osama2023/31948.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ahmed Helmy" tvg-logo="" group-title="IPFox World",|Fox| Ahmed Helmy
+http://red.ipfox.org:8080/live/osama2022/osama2023/31946.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| So3ad Hosni" tvg-logo="" group-title="IPFox World",|Fox| So3ad Hosni
+http://red.ipfox.org:8080/live/osama2022/osama2023/31945.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Horror" tvg-logo="" group-title="IPFox World",|Fox| Majestic Horror
+http://red.ipfox.org:8080/live/osama2022/osama2023/31944.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Action" tvg-logo="" group-title="IPFox World",|Fox| Majestic Action
+http://red.ipfox.org:8080/live/osama2022/osama2023/31942.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Romance" tvg-logo="" group-title="IPFox World",|Fox| Majestic Romance
+http://red.ipfox.org:8080/live/osama2022/osama2023/31941.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Arabic" tvg-logo="" group-title="IPFox World",|Fox| Majestic Arabic
+http://red.ipfox.org:8080/live/osama2022/osama2023/31939.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema CAM 1" tvg-logo="" group-title="IPFox World",|Fox| Cinema CAM 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31938.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema CAM 2" tvg-logo="" group-title="IPFox World",|Fox| Cinema CAM 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31937.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema Comedy" tvg-logo="" group-title="IPFox World",|Fox| Cinema Comedy
+http://red.ipfox.org:8080/live/osama2022/osama2023/31936.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Sci-Fi" tvg-logo="" group-title="IPFox World",|Fox| Shahid Sci-Fi
+http://red.ipfox.org:8080/live/osama2022/osama2023/31935.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Cinema" tvg-logo="" group-title="IPFox World",|Fox| Shahid Cinema
+http://red.ipfox.org:8080/live/osama2022/osama2023/31934.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Cartoon" tvg-logo="" group-title="IPFox World",|Fox| Shahid Cartoon
+http://red.ipfox.org:8080/live/osama2022/osama2023/31933.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31932.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31931.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 3" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 3
+http://red.ipfox.org:8080/live/osama2022/osama2023/31930.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masr7yat" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masr7yat
+http://red.ipfox.org:8080/live/osama2022/osama2023/31929.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Horror 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Horror 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31928.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Horror 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Horror 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31927.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Action 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Action 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31926.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Action 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Action 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31925.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Romance 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Romance 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31924.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Romance 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Romance 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31923.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masrh Masr 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masrh Masr 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31921.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masrh Masr 3" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masrh Masr 3
+http://red.ipfox.org:8080/live/osama2022/osama2023/31920.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31918.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31917.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 3" tvg-logo="" group-title="IPFox World",|Fox| Netflix 3
+http://red.ipfox.org:8080/live/osama2022/osama2023/31916.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 4" tvg-logo="" group-title="IPFox World",|Fox| Netflix 4
+http://red.ipfox.org:8080/live/osama2022/osama2023/31915.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 5" tvg-logo="" group-title="IPFox World",|Fox| Netflix 5
+http://red.ipfox.org:8080/live/osama2022/osama2023/31914.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 6" tvg-logo="" group-title="IPFox World",|Fox| Netflix 6
+http://red.ipfox.org:8080/live/osama2022/osama2023/31913.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 7" tvg-logo="" group-title="IPFox World",|Fox| Netflix 7
+http://red.ipfox.org:8080/live/osama2022/osama2023/31912.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 8" tvg-logo="" group-title="IPFox World",|Fox| Netflix 8
+http://red.ipfox.org:8080/live/osama2022/osama2023/31911.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 9" tvg-logo="" group-title="IPFox World",|Fox| Netflix 9
+http://red.ipfox.org:8080/live/osama2022/osama2023/31910.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 10" tvg-logo="" group-title="IPFox World",|Fox| Netflix 10
+http://red.ipfox.org:8080/live/osama2022/osama2023/31909.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Action 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Action 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31908.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Action 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Action 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31907.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Cartoon 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Cartoon 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31906.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Cartoon 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Cartoon 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31905.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Sci-Fi" tvg-logo="" group-title="IPFox World",|Fox| Netflix Sci-Fi
+http://red.ipfox.org:8080/live/osama2022/osama2023/31904.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Romance 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Romance 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31903.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Romance 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Romance 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31902.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Horror 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Horror 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31901.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Horror 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Horror 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31900.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 1" tvg-logo="" group-title="IPFox World",|Fox| showtime 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31899.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 2" tvg-logo="" group-title="IPFox World",|Fox| showtime 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31898.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 3" tvg-logo="" group-title="IPFox World",|Fox| showtime 3
+http://red.ipfox.org:8080/live/osama2022/osama2023/31897.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 4" tvg-logo="" group-title="IPFox World",|Fox| showtime 4
+http://red.ipfox.org:8080/live/osama2022/osama2023/31896.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 5" tvg-logo="" group-title="IPFox World",|Fox| showtime 5
+http://red.ipfox.org:8080/live/osama2022/osama2023/31895.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 6" tvg-logo="" group-title="IPFox World",|Fox| showtime 6
+http://red.ipfox.org:8080/live/osama2022/osama2023/31894.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 7" tvg-logo="" group-title="IPFox World",|Fox| showtime 7
+http://red.ipfox.org:8080/live/osama2022/osama2023/31893.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 8" tvg-logo="" group-title="IPFox World",|Fox| showtime 8
+http://red.ipfox.org:8080/live/osama2022/osama2023/31892.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 9" tvg-logo="" group-title="IPFox World",|Fox| showtime 9
+http://red.ipfox.org:8080/live/osama2022/osama2023/31891.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 10" tvg-logo="" group-title="IPFox World",|Fox| showtime 10
+http://red.ipfox.org:8080/live/osama2022/osama2023/31890.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 1" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 1
+http://red.ipfox.org:8080/live/osama2022/osama2023/31889.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 2" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 2
+http://red.ipfox.org:8080/live/osama2022/osama2023/31888.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 3" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 3
+http://red.ipfox.org:8080/live/osama2022/osama2023/31887.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 4" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 4
+http://red.ipfox.org:8080/live/osama2022/osama2023/31886.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 5" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 5
+http://red.ipfox.org:8080/live/osama2022/osama2023/31885.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 6" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 6
+http://red.ipfox.org:8080/live/osama2022/osama2023/31884.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 7" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 7
+http://red.ipfox.org:8080/live/osama2022/osama2023/31883.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 8" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 8
+http://red.ipfox.org:8080/live/osama2022/osama2023/31882.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 9" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 9
+http://red.ipfox.org:8080/live/osama2022/osama2023/31881.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 10" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 10
+http://red.ipfox.org:8080/live/osama2022/osama2023/31880.ts
