@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 01 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31603.ts
+http://185.53.88.194:8080/live/w0pquXRF/CfJnEswMlF/86571.ts?token=TUBZBxUKEwxEWAFUUVICBQdbVwZYBAECCA9RU1IBCFAGVAkCBQMAVANDFBRHQ0ZXB1RqDF0SD1wGA1QETUFFEFMQbg8CQAsUUlENAxYbFkYPVFBHAwEDUQMEUwNVWwFPFBJYAkRYEwBXUgEHFhsWVx5NUBdXUVk7VFMVXAIGEllYF10KSkBeWDkFXVtVWVAQXBsERxUSXBdAFFlbFA9cTxQAWBIUA0VTRFsaBwIDAxBKG1YKTF5BFkkUWRclORJPFAdJEgMMQl8JDxoMFkNHEEobXBZmQlAXREQGVAwGQkEMQAFESkBcVx4+W1laWVFRElBaC0oSD0YBFE8XDAxeCkINQzkWC1UUXEMKBwcEBxAb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 02 (240P)
 http://red.ipfox.org:8080/live/osama2022/osama2023/31602.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 03 (240P)
