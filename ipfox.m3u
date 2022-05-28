@@ -1,463 +1,569 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="beIN Sport -240P-",Test
-http://185.53.88.194:8080/live/w0pquXRF/CfJnEswMlF/86571.ts?token=TUBZBxUKEwxEWAFUUVICBQdbVwZYBAECCA9RU1IBCFAGVAkCBQMAVANDFBRHQ0ZXB1RqDF0SD1wGA1QETUFFEFMQbg8CQAsUUlENAxYbFkYPVFBHAwEDUQMEUwNVWwFPFBJYAkRYEwBXUgEHFhsWVx5NUBdXUVk7VFMVXAIGEllYF10KSkBeWDkFXVtVWVAQXBsERxUSXBdAFFlbFA9cTxQAWBIUA0VTRFsaBwIDAxBKG1YKTF5BFkkUWRclORJPFAdJEgMMQl8JDxoMFkNHEEobXBZmQlAXREQGVAwGQkEMQAFESkBcVx4+W1laWVFRElBaC0oSD0YBFE8XDAxeCkINQzkWC1UUXEMKBwcEBxAb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN pr22" tvg-logo="" group-title="beIN Sport -240P-",beIN Pr 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31602.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport Premium 03 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31601.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 01 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31600.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 02 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31599.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 03 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31598.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 04 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31597.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 05 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31596.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 06 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31595.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (240P)" tvg-logo="" group-title="beIN Sport -240P-",beIN Sport 07 (240P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31594.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 01 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31593.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 02 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31592.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport Premium 03 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31591.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 01 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31588.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 02 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31587.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 03 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31586.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 04 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31585.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 05 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 06 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31583.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (360P)" tvg-logo="" group-title="beIN Sport -360P-",beIN Sport 07 (360P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31582.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31548.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31547.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31546.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 01 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31555.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 02 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31554.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 03 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31553.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 04 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31552.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 05 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31551.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 06 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31550.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (480P)" tvg-logo="" group-title="beIN Sport -480P-",beIN Sport 07 (480P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31549.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 01 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31529.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 02 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31528.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Premium 03 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31527.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 01 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 01 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31536.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 02 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 02 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31535.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 03 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 03 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31534.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 04 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 04 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31533.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 05 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 05 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31532.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 06 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 06 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31531.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 07 (720P)" tvg-logo="" group-title="beIN Sport -720P-",beIN Sport 07 (720P)
-http://red.ipfox.org:8080/live/osama2022/osama2023/31530.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TF1 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16990.png" group-title="FRANCE TV",|FR| TF1 HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2341.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17096.jpg" group-title="FRANCE TV",|FR| AB 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/2447.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17095.jpg" group-title="FRANCE TV",|FR| AB 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/2446.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17094.jpg" group-title="FRANCE TV",|FR| Action
-http://red.ipfox.org:8080/live/osama2022/osama2023/2445.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| France 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17043.jpg" group-title="FRANCE TV",|FR| France 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/2394.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| France 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17042.jpg" group-title="FRANCE TV",|FR| France 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/2393.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| France 4" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17041.jpg" group-title="FRANCE TV",|FR| France 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/2392.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| France 5" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17040.jpg" group-title="FRANCE TV",|FR| France 5
-http://red.ipfox.org:8080/live/osama2022/osama2023/2391.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| France Info" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17039.png" group-title="FRANCE TV",|FR| France Info
-http://red.ipfox.org:8080/live/osama2022/osama2023/2390.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| M6 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17029.jpg" group-title="FRANCE TV",|FR| M6 HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2380.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| SYFY HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16994.jpg" group-title="FRANCE TV",|FR| SYFY HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2345.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TFX HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16988.png" group-title="FRANCE TV",|FR| TFX HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2339.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| 6ter HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17098.png" group-title="FRANCE TV",|FR| 6ter HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2449.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| W9 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16979.jpg" group-title="FRANCE TV",|FR| W9 HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2330.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| C8 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17076.png" group-title="FRANCE TV",|FR| C8 HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2427.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CStar HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17057.png" group-title="FRANCE TV",|FR| CStar HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2408.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| 13eme Rue" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17099.png" group-title="FRANCE TV",|FR| 13eme Rue
-http://red.ipfox.org:8080/live/osama2022/osama2023/2450.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TCM Cinema" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16993.jpg" group-title="FRANCE TV",|FR| TCM Cinema
-http://red.ipfox.org:8080/live/osama2022/osama2023/2344.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Serie Club" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16996.png" group-title="FRANCE TV",|FR| Serie Club
-http://red.ipfox.org:8080/live/osama2022/osama2023/2347.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal+ Sport" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17071.jpg" group-title="FRANCE TV",|FR| Canal+ Sport
-http://red.ipfox.org:8080/live/osama2022/osama2023/2422.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal+ Series" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17072.jpg" group-title="FRANCE TV",|FR| Canal+ Series
-http://red.ipfox.org:8080/live/osama2022/osama2023/2423.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal+ Family" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17073.png" group-title="FRANCE TV",|FR| Canal+ Family
-http://red.ipfox.org:8080/live/osama2022/osama2023/2424.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal+ Cinema" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17074.jpg" group-title="FRANCE TV",|FR| Canal+ Cinema
-http://red.ipfox.org:8080/live/osama2022/osama2023/2425.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ushuaïa" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16981.png" group-title="FRANCE TV",|FR| Ushuaïa
-http://red.ipfox.org:8080/live/osama2022/osama2023/2332.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TREK" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16983.png" group-title="FRANCE TV",|FR| TREK
-http://red.ipfox.org:8080/live/osama2022/osama2023/2334.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Toute histoire" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16984.png" group-title="FRANCE TV",|FR| Toute histoire
-http://red.ipfox.org:8080/live/osama2022/osama2023/2335.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Toonami" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16985.png" group-title="FRANCE TV",|FR| Toonami
-http://red.ipfox.org:8080/live/osama2022/osama2023/2336.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TMC HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16986.png" group-title="FRANCE TV",|FR| TMC HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2337.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Tiji HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16987.png" group-title="FRANCE TV",|FR| Tiji HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2338.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TF1 SERIES-FILMS" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16989.png" group-title="FRANCE TV",|FR| TF1 SERIES-FILMS
-http://red.ipfox.org:8080/live/osama2022/osama2023/2340.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Teva HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16991.png" group-title="FRANCE TV",|FR| Teva HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2342.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TéléTOON" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16992.png" group-title="FRANCE TV",|FR| TéléTOON
-http://red.ipfox.org:8080/live/osama2022/osama2023/2343.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Seasons HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16997.png" group-title="FRANCE TV",|FR| Seasons HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2348.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Science et Vie" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16998.png" group-title="FRANCE TV",|FR| Science et Vie
-http://red.ipfox.org:8080/live/osama2022/osama2023/2349.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RTL 9" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/16999.jpg" group-title="FRANCE TV",|FR| RTL 9
-http://red.ipfox.org:8080/live/osama2022/osama2023/2350.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Comedie+" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17059.png" group-title="FRANCE TV",|FR| Comedie+
-http://red.ipfox.org:8080/live/osama2022/osama2023/2410.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Premier" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17061.png" group-title="FRANCE TV",|FR| Ciné Premier
-http://red.ipfox.org:8080/live/osama2022/osama2023/2412.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Frisson" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17062.jpg" group-title="FRANCE TV",|FR| Ciné Frisson
-http://red.ipfox.org:8080/live/osama2022/osama2023/2413.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Famiz" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17063.png" group-title="FRANCE TV",|FR| Ciné Famiz
-http://red.ipfox.org:8080/live/osama2022/osama2023/2414.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Emotion" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17064.jpg" group-title="FRANCE TV",|FR| Ciné Emotion
-http://red.ipfox.org:8080/live/osama2022/osama2023/2415.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Club" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17065.png" group-title="FRANCE TV",|FR| Ciné Club
-http://red.ipfox.org:8080/live/osama2022/osama2023/2416.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Ciné Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17066.png" group-title="FRANCE TV",|FR| Ciné Classic
-http://red.ipfox.org:8080/live/osama2022/osama2023/2417.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Planete+" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17009.jpg" group-title="FRANCE TV",|FR| Planete+
-http://red.ipfox.org:8080/live/osama2022/osama2023/2360.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Planete+ CI" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17007.jpg" group-title="FRANCE TV",|FR| Planete+ CI
-http://red.ipfox.org:8080/live/osama2022/osama2023/2358.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Planete+ A&E" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17008.png" group-title="FRANCE TV",|FR| Planete+ A&E
-http://red.ipfox.org:8080/live/osama2022/osama2023/2359.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Paris Premiere" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17011.png" group-title="FRANCE TV",|FR| Paris Premiere
-http://red.ipfox.org:8080/live/osama2022/osama2023/2362.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Paramount channel" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17012.png" group-title="FRANCE TV",|FR| Paramount channel
-http://red.ipfox.org:8080/live/osama2022/osama2023/2363.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS Max" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17014.png" group-title="FRANCE TV",|FR| OCS Max
-http://red.ipfox.org:8080/live/osama2022/osama2023/2365.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS Geants" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17015.png" group-title="FRANCE TV",|FR| OCS Geants
-http://red.ipfox.org:8080/live/osama2022/osama2023/2366.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS City" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17016.jpg" group-title="FRANCE TV",|FR| OCS City
-http://red.ipfox.org:8080/live/osama2022/osama2023/2367.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS Choc" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17017.png" group-title="FRANCE TV",|FR| OCS Choc
-http://red.ipfox.org:8080/live/osama2022/osama2023/2368.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NRJ 12" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17018.jpg" group-title="FRANCE TV",|FR| NRJ 12
-http://red.ipfox.org:8080/live/osama2022/osama2023/2369.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NRJ Hits" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17019.jpg" group-title="FRANCE TV",|FR| NRJ Hits
-http://red.ipfox.org:8080/live/osama2022/osama2023/2370.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MCM TOP" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17026.png" group-title="FRANCE TV",|FR| MCM TOP
-http://red.ipfox.org:8080/live/osama2022/osama2023/2377.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MCM HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17027.png" group-title="FRANCE TV",|FR| MCM HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2378.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Mangas HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17028.png" group-title="FRANCE TV",|FR| Mangas HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2379.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LCP HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17030.png" group-title="FRANCE TV",|FR| LCP HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2381.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LCI HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17031.png" group-title="FRANCE TV",|FR| LCI HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2382.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| J One" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17032.png" group-title="FRANCE TV",|FR| J One
-http://red.ipfox.org:8080/live/osama2022/osama2023/2383.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Game One" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17037.png" group-title="FRANCE TV",|FR| Game One
-http://red.ipfox.org:8080/live/osama2022/osama2023/2388.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Euro Sport 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17044.png" group-title="FRANCE TV",|FR| Euro Sport 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/2395.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Equipe 21" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17045.png" group-title="FRANCE TV",|FR| Equipe 21
-http://red.ipfox.org:8080/live/osama2022/osama2023/2396.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Equidia Live" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17046.png" group-title="FRANCE TV",|FR| Equidia Live
-http://red.ipfox.org:8080/live/osama2022/osama2023/2397.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| E! Entertaiment" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17047.png" group-title="FRANCE TV",|FR| E! Entertaiment
-http://red.ipfox.org:8080/live/osama2022/osama2023/2398.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Boing" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17079.png" group-title="FRANCE TV",|FR| Boing
-http://red.ipfox.org:8080/live/osama2022/osama2023/2430.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Piwi+ HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17010.jpg" group-title="FRANCE TV",|FR| Piwi+ HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2361.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Gulli" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17034.jpg" group-title="FRANCE TV",|FR| Gulli
-http://red.ipfox.org:8080/live/osama2022/osama2023/2385.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Boomerang" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17078.png" group-title="FRANCE TV",|FR| Boomerang
-http://red.ipfox.org:8080/live/osama2022/osama2023/2429.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Cartoon Network" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17069.jpg" group-title="FRANCE TV",|FR| Cartoon Network
-http://red.ipfox.org:8080/live/osama2022/osama2023/2420.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Disney Junior" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17049.png" group-title="FRANCE TV",|FR| Disney Junior
-http://red.ipfox.org:8080/live/osama2022/osama2023/2400.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Disney Cinema" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17050.png" group-title="FRANCE TV",|FR| Disney Cinema
-http://red.ipfox.org:8080/live/osama2022/osama2023/2401.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Disney Channel" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17052.png" group-title="FRANCE TV",|FR| Disney Channel
-http://red.ipfox.org:8080/live/osama2022/osama2023/2403.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Nick Junior" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17021.jpg" group-title="FRANCE TV",|FR| Nick Junior
-http://red.ipfox.org:8080/live/osama2022/osama2023/2372.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Nickelodeon" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17022.jpg" group-title="FRANCE TV",|FR| Nickelodeon
-http://red.ipfox.org:8080/live/osama2022/osama2023/2373.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Nick 4 Teens" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17023.gif" group-title="FRANCE TV",|FR| Nick 4 Teens
-http://red.ipfox.org:8080/live/osama2022/osama2023/2374.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Crime District" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17058.png" group-title="FRANCE TV",|FR| Crime District
-http://red.ipfox.org:8080/live/osama2022/osama2023/2409.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BFM TV" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17080.png" group-title="FRANCE TV",|FR| BFM TV
-http://red.ipfox.org:8080/live/osama2022/osama2023/2431.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CNews HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17060.png" group-title="FRANCE TV",|FR| CNews HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2411.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Cherie 25" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17067.png" group-title="FRANCE TV",|FR| Cherie 25
-http://red.ipfox.org:8080/live/osama2022/osama2023/2418.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal J" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17070.jpg" group-title="FRANCE TV",|FR| Canal J
-http://red.ipfox.org:8080/live/osama2022/osama2023/2421.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Canal+" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17075.jpg" group-title="FRANCE TV",|FR| Canal+
-http://red.ipfox.org:8080/live/osama2022/osama2023/2426.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Info Sport" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17033.png" group-title="FRANCE TV",|FR| Info Sport
-http://red.ipfox.org:8080/live/osama2022/osama2023/2384.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Golf Channel" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17035.png" group-title="FRANCE TV",|FR| Golf Channel
-http://red.ipfox.org:8080/live/osama2022/osama2023/2386.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Rmc Story" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17000.png" group-title="FRANCE TV",|FR| Rmc Story
-http://red.ipfox.org:8080/live/osama2022/osama2023/2351.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC Sport 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17004.png" group-title="FRANCE TV",|FR| RMC Sport 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/2355.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC Sport 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17003.png" group-title="FRANCE TV",|FR| RMC Sport 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/2354.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC Sport 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17002.png" group-title="FRANCE TV",|FR| RMC Sport 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/2353.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC Sport 4" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17001.png" group-title="FRANCE TV",|FR| RMC Sport 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/2352.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="|FR| beIN SPORTS 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17090.jpg" group-title="FRANCE TV",|FR| beIN SPORTS 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/2441.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17088.png" group-title="FRANCE TV",|FR| beIN SPORTS 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/2439.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17087.png" group-title="FRANCE TV",|FR| beIN SPORTS 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/2438.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 4" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17086.png" group-title="FRANCE TV",|FR| beIN SPORTS 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/2437.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 5" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17085.png" group-title="FRANCE TV",|FR| beIN SPORTS 5
-http://red.ipfox.org:8080/live/osama2022/osama2023/2436.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 6" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17084.png" group-title="FRANCE TV",|FR| beIN SPORTS 6
-http://red.ipfox.org:8080/live/osama2022/osama2023/2435.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 7" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17083.png" group-title="FRANCE TV",|FR| beIN SPORTS 7
-http://red.ipfox.org:8080/live/osama2022/osama2023/2434.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| beIN SPORTS 10" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17089.png" group-title="FRANCE TV",|FR| beIN SPORTS 10
-http://red.ipfox.org:8080/live/osama2022/osama2023/2440.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ARTE" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17091.png" group-title="FRANCE TV",|FR| ARTE
-http://red.ipfox.org:8080/live/osama2022/osama2023/2442.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Animaux" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17092.jpg" group-title="FRANCE TV",|FR| Animaux
-http://red.ipfox.org:8080/live/osama2022/osama2023/2443.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Chasse & Pêche" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17068.png" group-title="FRANCE TV",|FR| Chasse & Pêche
-http://red.ipfox.org:8080/live/osama2022/osama2023/2419.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NAT GEO HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17024.jpg" group-title="FRANCE TV",|FR| NAT GEO HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2375.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NAT GEO WILD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17025.jpg" group-title="FRANCE TV",|FR| NAT GEO WILD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2376.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Discovery HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17056.png" group-title="FRANCE TV",|FR| Discovery HD
-http://red.ipfox.org:8080/live/osama2022/osama2023/2407.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Discovery Family" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17055.png" group-title="FRANCE TV",|FR| Discovery Family
-http://red.ipfox.org:8080/live/osama2022/osama2023/2406.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Discovery Science" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17053.jpg" group-title="FRANCE TV",|FR| Discovery Science
-http://red.ipfox.org:8080/live/osama2022/osama2023/2404.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV Breizh" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17054.png" group-title="FRANCE TV",|FR| TV Breizh
-http://red.ipfox.org:8080/live/osama2022/osama2023/2405.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Altice Studio" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17093.png" group-title="FRANCE TV",|FR| Altice Studio
-http://red.ipfox.org:8080/live/osama2022/osama2023/2444.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPFox Exclusive 1" tvg-logo="" group-title="IPFox World",IPFox Exclusive 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/37694.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPFox Exclusive 2" tvg-logo="" group-title="IPFox World",IPFox Exclusive 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/37695.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Fairouz" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10497.jpeg" group-title="IPFox World",|Fox| IPFox Fairouz
-http://red.ipfox.org:8080/live/osama2022/osama2023/3.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Halim" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/12501.png" group-title="IPFox World",|Fox| IPFox Halim
-http://red.ipfox.org:8080/live/osama2022/osama2023/2.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox UM Kalthom" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10495.jpg" group-title="IPFox World",|Fox| IPFox UM Kalthom
-http://red.ipfox.org:8080/live/osama2022/osama2023/6.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Arabic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10534.png" group-title="IPFox World",|Fox| IPFox Movies Arabic
-http://red.ipfox.org:8080/live/osama2022/osama2023/8.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/11062.png" group-title="IPFox World",|Fox| IPFox Movies Classic
-http://red.ipfox.org:8080/live/osama2022/osama2023/9.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10503.png" group-title="IPFox World",|Fox| IPFox Movies Action
-http://red.ipfox.org:8080/live/osama2022/osama2023/7.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Comedy" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10529.png" group-title="IPFox World",|Fox| IPFox Movies Comedy
-http://red.ipfox.org:8080/live/osama2022/osama2023/11.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Drama" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10530.png" group-title="IPFox World",|Fox| IPFox Movies Drama
-http://red.ipfox.org:8080/live/osama2022/osama2023/12.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Horror" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10531.png" group-title="IPFox World",|Fox| IPFox Movies Horror
-http://red.ipfox.org:8080/live/osama2022/osama2023/13.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Kids" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10532.png" group-title="IPFox World",|Fox| IPFox Movies Kids
-http://red.ipfox.org:8080/live/osama2022/osama2023/14.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| IPFox Movies Thriller" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10533.png" group-title="IPFox World",|Fox| IPFox Movies Thriller
-http://red.ipfox.org:8080/live/osama2022/osama2023/15.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box Aflam 1" tvg-logo="" group-title="IPFox World",|Fox| Box Aflam 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/30476.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box Aflam 2" tvg-logo="" group-title="IPFox World",|Fox| Box Aflam 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/30475.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box CLASSIC" tvg-logo="" group-title="IPFox World",|Fox| Box CLASSIC
-http://red.ipfox.org:8080/live/osama2022/osama2023/30471.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box ACTION 1" tvg-logo="" group-title="IPFox World",|Fox| Box ACTION 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/30474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box ACTION 2" tvg-logo="" group-title="IPFox World",|Fox| Box ACTION 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/30473.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Box HORROR" tvg-logo="" group-title="IPFox World",|Fox| Box HORROR
-http://red.ipfox.org:8080/live/osama2022/osama2023/30472.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ismael Yassin" tvg-logo="" group-title="IPFox World",|Fox| Ismael Yassin
-http://red.ipfox.org:8080/live/osama2022/osama2023/31950.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Adel Emam" tvg-logo="" group-title="IPFox World",|Fox| Adel Emam
-http://red.ipfox.org:8080/live/osama2022/osama2023/31949.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ahmed Zaki" tvg-logo="" group-title="IPFox World",|Fox| Ahmed Zaki
-http://red.ipfox.org:8080/live/osama2022/osama2023/31948.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ahmed Helmy" tvg-logo="" group-title="IPFox World",|Fox| Ahmed Helmy
-http://red.ipfox.org:8080/live/osama2022/osama2023/31946.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| So3ad Hosni" tvg-logo="" group-title="IPFox World",|Fox| So3ad Hosni
-http://red.ipfox.org:8080/live/osama2022/osama2023/31945.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Horror" tvg-logo="" group-title="IPFox World",|Fox| Majestic Horror
-http://red.ipfox.org:8080/live/osama2022/osama2023/31944.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Action" tvg-logo="" group-title="IPFox World",|Fox| Majestic Action
-http://red.ipfox.org:8080/live/osama2022/osama2023/31942.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Romance" tvg-logo="" group-title="IPFox World",|Fox| Majestic Romance
-http://red.ipfox.org:8080/live/osama2022/osama2023/31941.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Majestic Arabic" tvg-logo="" group-title="IPFox World",|Fox| Majestic Arabic
-http://red.ipfox.org:8080/live/osama2022/osama2023/31939.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema CAM 1" tvg-logo="" group-title="IPFox World",|Fox| Cinema CAM 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31938.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema CAM 2" tvg-logo="" group-title="IPFox World",|Fox| Cinema CAM 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31937.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Cinema Comedy" tvg-logo="" group-title="IPFox World",|Fox| Cinema Comedy
-http://red.ipfox.org:8080/live/osama2022/osama2023/31936.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Sci-Fi" tvg-logo="" group-title="IPFox World",|Fox| Shahid Sci-Fi
-http://red.ipfox.org:8080/live/osama2022/osama2023/31935.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Cinema" tvg-logo="" group-title="IPFox World",|Fox| Shahid Cinema
-http://red.ipfox.org:8080/live/osama2022/osama2023/31934.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Cartoon" tvg-logo="" group-title="IPFox World",|Fox| Shahid Cartoon
-http://red.ipfox.org:8080/live/osama2022/osama2023/31933.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31932.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31931.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Aflam 3" tvg-logo="" group-title="IPFox World",|Fox| Shahid Aflam 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/31930.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masr7yat" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masr7yat
-http://red.ipfox.org:8080/live/osama2022/osama2023/31929.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Horror 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Horror 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31928.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Horror 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Horror 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31927.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Action 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Action 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31926.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Action 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Action 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31925.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Romance 1" tvg-logo="" group-title="IPFox World",|Fox| Shahid Romance 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31924.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Romance 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Romance 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31923.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masrh Masr 2" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masrh Masr 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31921.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Shahid Masrh Masr 3" tvg-logo="" group-title="IPFox World",|Fox| Shahid Masrh Masr 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/31920.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31918.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31917.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 3" tvg-logo="" group-title="IPFox World",|Fox| Netflix 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/31916.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 4" tvg-logo="" group-title="IPFox World",|Fox| Netflix 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/31915.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 5" tvg-logo="" group-title="IPFox World",|Fox| Netflix 5
-http://red.ipfox.org:8080/live/osama2022/osama2023/31914.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 6" tvg-logo="" group-title="IPFox World",|Fox| Netflix 6
-http://red.ipfox.org:8080/live/osama2022/osama2023/31913.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 7" tvg-logo="" group-title="IPFox World",|Fox| Netflix 7
-http://red.ipfox.org:8080/live/osama2022/osama2023/31912.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 8" tvg-logo="" group-title="IPFox World",|Fox| Netflix 8
-http://red.ipfox.org:8080/live/osama2022/osama2023/31911.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 9" tvg-logo="" group-title="IPFox World",|Fox| Netflix 9
-http://red.ipfox.org:8080/live/osama2022/osama2023/31910.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix 10" tvg-logo="" group-title="IPFox World",|Fox| Netflix 10
-http://red.ipfox.org:8080/live/osama2022/osama2023/31909.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Action 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Action 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31908.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Action 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Action 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31907.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Cartoon 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Cartoon 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31906.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Cartoon 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Cartoon 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31905.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Sci-Fi" tvg-logo="" group-title="IPFox World",|Fox| Netflix Sci-Fi
-http://red.ipfox.org:8080/live/osama2022/osama2023/31904.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Romance 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Romance 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31903.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Romance 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Romance 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31902.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Horror 1" tvg-logo="" group-title="IPFox World",|Fox| Netflix Horror 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31901.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Netflix Horror 2" tvg-logo="" group-title="IPFox World",|Fox| Netflix Horror 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31900.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 1" tvg-logo="" group-title="IPFox World",|Fox| showtime 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31899.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 2" tvg-logo="" group-title="IPFox World",|Fox| showtime 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31898.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 3" tvg-logo="" group-title="IPFox World",|Fox| showtime 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/31897.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 4" tvg-logo="" group-title="IPFox World",|Fox| showtime 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/31896.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 5" tvg-logo="" group-title="IPFox World",|Fox| showtime 5
-http://red.ipfox.org:8080/live/osama2022/osama2023/31895.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 6" tvg-logo="" group-title="IPFox World",|Fox| showtime 6
-http://red.ipfox.org:8080/live/osama2022/osama2023/31894.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 7" tvg-logo="" group-title="IPFox World",|Fox| showtime 7
-http://red.ipfox.org:8080/live/osama2022/osama2023/31893.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 8" tvg-logo="" group-title="IPFox World",|Fox| showtime 8
-http://red.ipfox.org:8080/live/osama2022/osama2023/31892.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 9" tvg-logo="" group-title="IPFox World",|Fox| showtime 9
-http://red.ipfox.org:8080/live/osama2022/osama2023/31891.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| showtime 10" tvg-logo="" group-title="IPFox World",|Fox| showtime 10
-http://red.ipfox.org:8080/live/osama2022/osama2023/31890.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 1" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 1
-http://red.ipfox.org:8080/live/osama2022/osama2023/31889.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 2" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 2
-http://red.ipfox.org:8080/live/osama2022/osama2023/31888.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 3" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 3
-http://red.ipfox.org:8080/live/osama2022/osama2023/31887.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 4" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 4
-http://red.ipfox.org:8080/live/osama2022/osama2023/31886.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 5" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 5
-http://red.ipfox.org:8080/live/osama2022/osama2023/31885.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 6" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 6
-http://red.ipfox.org:8080/live/osama2022/osama2023/31884.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 7" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 7
-http://red.ipfox.org:8080/live/osama2022/osama2023/31883.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 8" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 8
-http://red.ipfox.org:8080/live/osama2022/osama2023/31882.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 9" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 9
-http://red.ipfox.org:8080/live/osama2022/osama2023/31881.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|Fox| Ostora Arabic 10" tvg-logo="" group-title="IPFox World",|Fox| Ostora Arabic 10
-http://red.ipfox.org:8080/live/osama2022/osama2023/31880.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="---??| BEIN SPORT |??---" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="ARABIC BEIN SPORTS",---??| BEIN SPORT |??---
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/22460
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="|.AR.| BEIN SPORTS NEWS HD" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS NEWS HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9152
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS NEWS HEVC" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS NEWS HEVC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/92512
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="|.AR.| BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9156
+#EXTINF:-1 tvg-id="beINSports4KAr.qa" tvg-name="|.AR.| BEIN SPORT HD" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest/scale-to-width-down/220?cb=20190818174249&path-prefix=fr" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORT HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/30750
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS HEVC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/92511
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 SD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 1 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32008
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 1 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9146
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 SD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 2 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32007
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 2 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9148
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 SD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 3 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32006
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS PREMIUM 3 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9150
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 1 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32015
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="|.AR.| BEIN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 1 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9131
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 2 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32014
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 2 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9134
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 3 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32013
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 3 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9136
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 4 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32012
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 4 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9138
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 5 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32011
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 5 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9140
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 6 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32010
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 6 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9142
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 7 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32009
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS 7 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9144
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS XTRA 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqhDVC2LlaTw&usqp=CAU" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS XTRA 1 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/119957
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS XTRA 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tAqCwjg34GEGo7BXOujGW5mn49r78CnORuCYWx6nS387kihY7gzBwVKtqhDVC2LlaTw&usqp=CAU" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS XTRA 2 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/119958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS FRENCH 1 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS FRENCH 1 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS FRENCH 2 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS FRENCH 2 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|.AR.| BEIN SPORTS FRENCH 3 HD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="ARABIC BEIN SPORTS",|.AR.| BEIN SPORTS FRENCH 3 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124098
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1" tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png" group-title="FRANCE TNT",|FR| TF1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9211
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1+1" tvg-logo="http://one-iptv.com/imageslogo/pu_tf1plus1.png" group-title="FRANCE TNT",|FR| TF1+1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51178
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS" tvg-logo="http://one-iptv.com/imageslogo/TF1SeriesFilms.fr.png" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51148
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="FRANCE TNT",|FR| FRANCE 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9277
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="FRANCE TNT",|FR| FRANCE 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9276
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="FRANCE TNT",|FR| FRANCE 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9274
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="FRANCE TNT",|FR| FRANCE 5
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9273
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="FRANCE TNT",|FR| M6
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9260
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE" tvg-logo="http://one-iptv.com/logoX/francetnt/arte.png" group-title="FRANCE TNT",|FR| ARTE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9354
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX" tvg-logo="http://one-iptv.com/imageslogo/TFX.fr.png" group-title="FRANCE TNT",|FR| TFX
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/50639
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| FRANCE O" tvg-logo="http://one-iptv.com/logoX/francetnt/FranceO.png" group-title="FRANCE TNT",|FR| FRANCE O
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9272
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER" tvg-logo="http://one-iptv.com/logoX/francetnt/6TER.png" group-title="FRANCE TNT",|FR| 6TER
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9364
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="|FR| PARIS PREMIERE" tvg-logo="http://one-iptv.com/imageslogo/ParisPremiere.fr.png" group-title="FRANCE TNT",|FR| PARIS PREMIERE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15137
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="|FR| TV BREIZH" tvg-logo="http://one-iptv.com/logoX/francetnt/TVBREIZ.png" group-title="FRANCE TNT",|FR| TV BREIZH
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9206
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://one-iptv.com/imageslogo/NRJ12.fr.png" group-title="FRANCE TNT",|FR| NRJ 12 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51134
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8" tvg-logo="http://one-iptv.com/logoX/francetnt/C8.png" group-title="FRANCE DIVERTISSEMENT",|FR| C8
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9293
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9" tvg-logo="http://one-iptv.com/logoX/francetnt/W9.png" group-title="FRANCE DIVERTISSEMENT",|FR| W9
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9372
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR| CSTAR" tvg-logo="http://one-iptv.com/logoX/francetnt/CSTAR.png" group-title="FRANCE DIVERTISSEMENT",|FR| CSTAR
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15182
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="|FR| CHERIE 25" tvg-logo="http://one-iptv.com/logoX/francetnt/cherie25.png" group-title="FRANCE DIVERTISSEMENT",|FR| CHERIE 25
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9313
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ12" tvg-logo="http://one-iptv.com/logoX/francetnt/nrj.png" group-title="FRANCE DIVERTISSEMENT",|FR| NRJ12
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RTL9" tvg-logo="http://one-iptv.com/logoX/francetnt/RTL9.png" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9374
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="|FR| AB1" tvg-logo="http://one-iptv.com/logoX/francetnt/AB1.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15233
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| AB3" tvg-logo="http://one-iptv.com/logoX/francetnt/AB3.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9357
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| 13EME RUE" tvg-logo="http://one-iptv.com/logoX/francetnt/13emerue.png" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9365
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="|FR| SYFY" tvg-logo="http://one-iptv.com/logoX/francetnt/syfy.png" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9214
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="|FR| E! ENTERTAINMENT" tvg-logo="http://one-iptv.com/logoX/francetnt/E.png" group-title="FRANCE DIVERTISSEMENT",|FR| E! ENTERTAINMENT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15175
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE PLUS" tvg-logo="http://one-iptv.com/logoX/francetnt/comedie.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE PLUS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9297
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TEVA" tvg-logo="http://one-iptv.com/imageslogo/pu_teva.png" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/49805
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MELODY TV" tvg-logo="http://one-iptv.com/imageslogo/Melody.fr.png" group-title="FRANCE DIVERTISSEMENT",|FR| MELODY TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/48042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| KTO TV" tvg-logo="http://one-iptv.com/imageslogo/KTO.fr.png" group-title="FRANCE DIVERTISSEMENT",|FR| KTO TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/63011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EUROCHANNEL" tvg-logo="http://one-iptv.com/imageslogo/Eurochannel.fr.png" group-title="FRANCE DIVERTISSEMENT",|FR| EUROCHANNEL
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/108053
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="|FR| TV5 MONDE" tvg-logo="http://one-iptv.com/logoX/francetnt/tv5monde.png" group-title="FRANCE DIVERTISSEMENT",|FR| TV5 MONDE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9192
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| CANAL SD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlus.fr.png" group-title="FRANCE CINEMA",|FR| CANAL SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32155
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL CINEMA" tvg-logo="http://one-iptv.com/logoX/francetnt/CANAL+CINEMA.png" group-title="FRANCE CINEMA",|FR| CANAL CINEMA
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9332
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="|FR| CANAL DECALE" tvg-logo="http://one-iptv.com/logoX/francetnt/CANALDECALE.png" group-title="FRANCE CINEMA",|FR| CANAL DECALE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9331
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| CANAL GRAND ECRAN HD" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/01/canalgrand-ecran.jpeg" group-title="FRANCE CINEMA",|FR| CANAL GRAND ECRAN HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/131807
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| CANAL SERIE" tvg-logo="http://one-iptv.com/logoX/francetnt/canalserie.png" group-title="FRANCE CINEMA",|FR| CANAL SERIE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9328
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="|FR| ALTICE STUDIO" tvg-logo="http://one-iptv.com/imageslogo/AlticeStudio.fr.png" group-title="FRANCE CINEMA",|FR| ALTICE STUDIO
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/40882
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="|FR| OCS CHOC" tvg-logo="http://one-iptv.com/logoX/francetnt/ocschoc.png" group-title="FRANCE CINEMA",|FR| OCS CHOC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9247
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="|FR| OCS CITY" tvg-logo="http://one-iptv.com/logoX/francetnt/ocscity.png" group-title="FRANCE CINEMA",|FR| OCS CITY
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9246
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="|FR| OCS GEANT" tvg-logo="http://one-iptv.com/logoX/francetnt/ocsgeants.png" group-title="FRANCE CINEMA",|FR| OCS GEANT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9245
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="|FR| OCS MAX" tvg-logo="http://one-iptv.com/logoX/francetnt/ocsmax.png" group-title="FRANCE CINEMA",|FR| OCS MAX
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9322
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 2" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 3" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 4" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 5" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 5
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 6" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 6
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9317
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 7" tvg-logo="http://one-iptv.com/logoX/francetnt/canalplay.png" group-title="FRANCE CINEMA",|FR| CANAL PLAY 7
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9316
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| CINE CLASSIC" tvg-logo="http://one-iptv.com/logoX/francetnt/cineclassic.png" group-title="FRANCE CINEMA",|FR| CINE CLASSIC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9311
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION" tvg-logo="http://one-iptv.com/logoX/francetnt/cineemotion.png" group-title="FRANCE CINEMA",|FR| CINE EMOTION
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9309
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="|FR| CINE FAMIZ" tvg-logo="http://one-iptv.com/logoX/francetnt/cinefamiz.png" group-title="FRANCE CINEMA",|FR| CINE FAMIZ
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9307
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON" tvg-logo="http://one-iptv.com/logoX/francetnt/cinefrisson.png" group-title="FRANCE CINEMA",|FR| CINE FRISSON
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9304
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| CINE FX" tvg-logo="http://one-iptv.com/logoX/francetnt/cinefx.png" group-title="FRANCE CINEMA",|FR| CINE FX
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9302
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="|FR| CINE POLAR" tvg-logo="http://one-iptv.com/logoX/francetnt/cinepolar.png" group-title="FRANCE CINEMA",|FR| CINE POLAR
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9301
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="|FR| CINE PREMIER" tvg-logo="http://one-iptv.com/logoX/francetnt/cinepremiere.png" group-title="FRANCE CINEMA",|FR| CINE PREMIER
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9300
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="|FR| ACTION" tvg-logo="http://one-iptv.com/logoX/francetnt/action.png" group-title="FRANCE CINEMA",|FR| ACTION
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9356
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="FRANCE CINEMA",|FR| TMC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9194
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TCM CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAfCcbTGajlGKq4c9eM030SDq9AuOkd4IFdODL5dHpD1_Lo6Hg9cMox4&s" group-title="FRANCE CINEMA",|FR| TCM CINEMA
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/59874
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL" tvg-logo="http://one-iptv.com/logoX/francetnt/paramount.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9240
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 8" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL PLAY 8
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/131489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9242
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 5
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9203
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 6
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 7
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 8
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 9
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| A LA CARTE 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCjL7b2gDZTEJvksZ9UvDmGCiH7Jgm47mH7IPQMUvK6_Unwyg478sSg" group-title="FRANCE ORANGE",|FR| A LA CARTE 10
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9363
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE CINE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE ORANGE",|FR| ORANGE CINE 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15247
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE CINE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE ORANGE",|FR| ORANGE CINE 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15246
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE CINE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE ORANGE",|FR| ORANGE CINE 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE CINE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE ORANGE",|FR| ORANGE CINE 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE CINE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE ORANGE",|FR| ORANGE CINE 5
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15243
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/39203
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE HD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/125118
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="|FR| CANAL+ FORMULA1 HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw8QDw8PDw8VFhAPFQ8PDxUOFRUWFhUVFRcYHSggGB0lHhYVITMhJikrLi4xFx8zOzMsNygtLisBCgoKDg0OGBAQGi0mHiYtLysuKystLSstLS0tLystKy0tLSsxKy0tKysrKy4tLS0tLS0tLSstKystLS0tLSstLf/AABEIALcBEwMBEQACEQEDEQH/x" group-title="FRANCE SPORT",|FR| CANAL+ FORMULA1 HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/125119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME MULTIPLEX SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126666
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/108558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 9 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 9 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/124559
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15204
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15203
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15202
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 1 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15127
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 2 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 3 SD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/50978
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126960
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 2" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126961
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 3" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 3
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 4" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 4
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 5" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 5
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 6" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 6
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 7" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 7
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME LIGUE 2 LIVE 8" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 2 LIVE 8
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126967
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="|FR| RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/40484
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="|FR| RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/40483
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",|FR| EUROSPORT 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15172
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",|FR| EUROSPORT 2
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9279
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="|FR| INFOSPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",|FR| INFOSPORT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9265
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="|FR| FOOT+ 24/24" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",|FR| FOOT+ 24/24
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/32819
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="|FR| LEQUIPE 21" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",|FR| LEQUIPE 21
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9264
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|FR| AB MOTEUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3K20QZdRxwPziWeJswxGsMPMQIUma8zTCXyOsJzQLjZykTpCWLGWnBwo" group-title="FRANCE SPORT",|FR| AB MOTEUR
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9359
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="|FR| OLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/OLTV_HD_.png" group-title="FRANCE SPORT",|FR| OLTV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/30599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BABY TV" tvg-logo="http://one-iptv.com/imageslogo/pu_babytv.png" group-title="ENFANTS FRANCE",|FR| BABY TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY+ HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="ENFANTS FRANCE",|FR| DISNEY+ HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/83635
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="ENFANTS FRANCE",|FR| DISNEY CHANNEL
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9290
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="ENFANTS FRANCE",|FR| DISNEY CHANNEL HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15178
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="ENFANTS FRANCE",|FR| DISNEY CHANNEL FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY CHANNEL +1 FHD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="ENFANTS FRANCE",|FR| DISNEY CHANNEL +1 FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62898
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.fr.png" group-title="ENFANTS FRANCE",|FR| DISNEY JUNIOR
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9369
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.fr.png" group-title="ENFANTS FRANCE",|FR| DISNEY JUNIOR HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15177
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.fr.png" group-title="ENFANTS FRANCE",|FR| DISNEY JUNIOR FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9287
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD BKP" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.fr.png" group-title="ENFANTS FRANCE",|FR| DISNEY JUNIOR FHD BKP
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9555
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|FR| DISNEY CINEMA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_16_19_2_85_C00000_0_0_0.png" group-title="ENFANTS FRANCE",|FR| DISNEY CINEMA
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9288
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY CINEMA HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_16_19_2_85_C00000_0_0_0.png" group-title="ENFANTS FRANCE",|FR| DISNEY CINEMA HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15229
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|FR| DISNEY CINEMA FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_16_19_2_85_C00000_0_0_0.png" group-title="ENFANTS FRANCE",|FR| DISNEY CINEMA FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9556
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|FR| DISNEY XD" tvg-logo="http://one-iptv.com/imageslogo/DisneyXD.es.png" group-title="ENFANTS FRANCE",|FR| DISNEY XD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9286
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY XD HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyXD.es.png" group-title="ENFANTS FRANCE",|FR| DISNEY XD HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15176
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9251
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON HD" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15143
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9522
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JUNIOR" tvg-logo="http://one-iptv.com/imageslogo/NickJr.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON JUNIOR
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9250
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://one-iptv.com/imageslogo/NickJr.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON JUNIOR HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9252
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JUNIOR FHD" tvg-logo="http://one-iptv.com/imageslogo/NickJr.fr.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON JUNIOR FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15225
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NICKELODEON 4 TEEN" tvg-logo="http://one-iptv.com/imageslogo/pu_nickelodeon4teen.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON 4 TEEN
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/49802
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NICKELODEON 4 TEEN FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_nickelodeon4teen.png" group-title="ENFANTS FRANCE",|FR| NICKELODEON 4 TEEN FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/49801
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="|FR| TELETOON +" tvg-logo="http://one-iptv.com/logoX/newsenfant/teletoon.png" group-title="ENFANTS FRANCE",|FR| TELETOON +
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9373
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="|FR| TELETOON + FHD" tvg-logo="http://one-iptv.com/logoX/newsenfant/teletoon.png" group-title="ENFANTS FRANCE",|FR| TELETOON + FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9496
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI" tvg-logo="http://one-iptv.com/imageslogo/PIWI.fr.png" group-title="ENFANTS FRANCE",|FR| PIWI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9237
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI HD" tvg-logo="http://one-iptv.com/imageslogo/PIWI.fr.png" group-title="ENFANTS FRANCE",|FR| PIWI HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15136
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI FHD" tvg-logo="http://one-iptv.com/imageslogo/PIWI.fr.png" group-title="ENFANTS FRANCE",|FR| PIWI FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9513
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J" tvg-logo="http://one-iptv.com/imageslogo/CanalJ.fr.png" group-title="ENFANTS FRANCE",|FR| CANAL J
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9323
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J HD" tvg-logo="http://one-iptv.com/imageslogo/CanalJ.fr.png" group-title="ENFANTS FRANCE",|FR| CANAL J HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15231
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://one-iptv.com/imageslogo/CanalJ.fr.png" group-title="ENFANTS FRANCE",|FR| CANAL J FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9576
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI" tvg-logo="http://one-iptv.com/imageslogo/Tiji.fr.png" group-title="ENFANTS FRANCE",|FR| TIJI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9209
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI HD" tvg-logo="http://one-iptv.com/imageslogo/Tiji.fr.png" group-title="ENFANTS FRANCE",|FR| TIJI HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15120
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://one-iptv.com/imageslogo/Tiji.fr.png" group-title="ENFANTS FRANCE",|FR| TIJI FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9495
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG" tvg-logo="http://one-iptv.com/imageslogo/Boomerang.fr.png" group-title="ENFANTS FRANCE",|FR| BOOMERANG
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9334
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG HD" tvg-logo="http://one-iptv.com/imageslogo/Boomerang.fr.png" group-title="ENFANTS FRANCE",|FR| BOOMERANG HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15198
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://one-iptv.com/imageslogo/Boomerang.fr.png" group-title="ENFANTS FRANCE",|FR| BOOMERANG FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9583
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| BOING" tvg-logo="http://one-iptv.com/imageslogo/Boing.fr.png" group-title="ENFANTS FRANCE",|FR| BOING
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9335
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| BOING HD" tvg-logo="http://one-iptv.com/imageslogo/Boing.fr.png" group-title="ENFANTS FRANCE",|FR| BOING HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15199
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://one-iptv.com/imageslogo/Boing.fr.png" group-title="ENFANTS FRANCE",|FR| BOING FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9584
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.fr.png" group-title="ENFANTS FRANCE",|FR| CARTOON NETWORK
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9315
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.fr.png" group-title="ENFANTS FRANCE",|FR| CARTOON NETWORK HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9371
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.fr.png" group-title="ENFANTS FRANCE",|FR| CARTOON NETWORK FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15190
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD BKP" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.fr.png" group-title="ENFANTS FRANCE",|FR| CARTOON NETWORK FHD BKP
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9573
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE" tvg-logo="http://one-iptv.com/imageslogo/GameOne.fr.png" group-title="ENFANTS FRANCE",|FR| GAME ONE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9271
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE HD" tvg-logo="http://one-iptv.com/imageslogo/GameOne.fr.png" group-title="ENFANTS FRANCE",|FR| GAME ONE HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15163
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://one-iptv.com/imageslogo/GameOne.fr.png" group-title="ENFANTS FRANCE",|FR| GAME ONE FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9541
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI" tvg-logo="http://one-iptv.com/imageslogo/Gulli.fr.png" group-title="ENFANTS FRANCE",|FR| GULLI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9269
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI HD" tvg-logo="http://one-iptv.com/imageslogo/Gulli.fr.png" group-title="ENFANTS FRANCE",|FR| GULLI HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15160
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://one-iptv.com/imageslogo/Gulli.fr.png" group-title="ENFANTS FRANCE",|FR| GULLI FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9538
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS" tvg-logo="http://one-iptv.com/imageslogo/Mangas.fr.png" group-title="ENFANTS FRANCE",|FR| MANGAS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9257
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="http://one-iptv.com/imageslogo/Mangas.fr.png" group-title="ENFANTS FRANCE",|FR| MANGAS HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15152
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGA FHD" tvg-logo="http://one-iptv.com/imageslogo/Mangas.fr.png" group-title="ENFANTS FRANCE",|FR| MANGA FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9530
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="http://one-iptv.com/imageslogo/Mangas.fr.png" group-title="ENFANTS FRANCE",|FR| MANGAS HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| J ONE FHD" tvg-logo="http://one-iptv.com/imageslogo/JONE.fr.png" group-title="ENFANTS FRANCE",|FR| J ONE FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/30600
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="|FR| TOONAMI" tvg-logo="http://one-iptv.com/imageslogo/Toonami.fr.png" group-title="ENFANTS FRANCE",|FR| TOONAMI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/46532
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://one-iptv.com/imageslogo/Toonami.fr.png" group-title="ENFANTS FRANCE",|FR| TOONAMI FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/50674
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| GAME ONE +1 FHD" tvg-logo="http://one-iptv.com/imageslogo/GameOne.fr.png" group-title="ENFANTS FRANCE",|FR| GAME ONE +1 FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62910
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LIVE FRANKLIN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xGCs05K02-oo7QLri6QuJ1f1I7YHq3LKaZJBjZlPRGq-5jyN_J6EBttkCw&s" group-title="ENFANTS FRANCE",|FR| LIVE FRANKLIN HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62907
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LIVE LES SIMPSON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXwcdyRD0pYlFGkh18RwXkKLZ7kJaFv0Dkn2xNVlC6tuRu1fhvzARN9Y&s" group-title="ENFANTS FRANCE",|FR| LIVE LES SIMPSON HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LIVE LA MAISON DE MICKEY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMyFKGdJ2-nA8F883OaIseyPsjOaFzBUxLGt4IIy_lIy6RaQjHgi-60xw&s" group-title="ENFANTS FRANCE",|FR| LIVE LA MAISON DE MICKEY HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62901
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| DISNEY XD FHD" tvg-logo="http://one-iptv.com/imageslogo/DisneyXD.es.png" group-title="ENFANTS FRANCE",|FR| DISNEY XD FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9554
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE HD" tvg-logo="http://one-iptv.com/imageslogo/PlanetePlus.fr.png" group-title="FRANCE CULTURE",|FR| PLANETE HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15135
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="|FR| PLANETE A&E" tvg-logo="http://one-iptv.com/imageslogo/PlaneteAction.fr.png" group-title="FRANCE CULTURE",|FR| PLANETE A&E
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9235
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="|FR| PLANETE CI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMdv1Cd8EJ4oWr0QOYV7ZynEEIBZNolAVnJ3hZBodDJRrZ64NgO-qnIJ7" group-title="FRANCE CULTURE",|FR| PLANETE CI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9234
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryInvestigation.fr.png" group-title="FRANCE CULTURE",|FR| DISCOVERY INVESTIGATION
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51141
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="|FR| DISCOVERY" tvg-logo="http://one-iptv.com/logoX/franceculture/discouverychannel.png" group-title="FRANCE CULTURE",|FR| DISCOVERY
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9292
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="|FR| DISCOVERY FAMILY" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryFamily.fr.png" group-title="FRANCE CULTURE",|FR| DISCOVERY FAMILY
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51144
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="|FR| DISCOVERY SCIENCE" tvg-logo="http://one-iptv.com/logoX/franceculture/discouveryscience.png" group-title="FRANCE CULTURE",|FR| DISCOVERY SCIENCE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9291
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR|  NATIONAL GEOGRAPHIC" tvg-logo="http://one-iptv.com/logoX/franceculture/nationalgeographic.png" group-title="FRANCE CULTURE",|FR|  NATIONAL GEOGRAPHIC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9368
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="|FR| NATIONAL GEO WILD" tvg-logo="http://one-iptv.com/logoX/espanacultura/natgeowild.png" group-title="FRANCE CULTURE",|FR| NATIONAL GEO WILD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9367
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="|FR| SCIENCES ET VIE" tvg-logo="http://one-iptv.com/logoX/franceculture/sciencevietv.png" group-title="FRANCE CULTURE",|FR| SCIENCES ET VIE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9228
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX" tvg-logo="http://one-iptv.com/logoX/franceculture/animaux.png" group-title="FRANCE CULTURE",|FR| ANIMAUX
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9355
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA" tvg-logo="http://one-iptv.com/logoX/franceculture/ushuaia.png" group-title="FRANCE CULTURE",|FR| USHUAIA
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9205
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE" tvg-logo="http://one-iptv.com/logoX/franceculture/rmcdecouverte.png" group-title="FRANCE CULTURE",|FR| RMC DECOUVERTE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15131
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="|FR| VOYAGE" tvg-logo="http://one-iptv.com/logoX/franceculture/voyage.png" group-title="FRANCE CULTURE",|FR| VOYAGE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9191
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="|FR| TREK" tvg-logo="http://one-iptv.com/logoX/franceculture/trek.png" group-title="FRANCE CULTURE",|FR| TREK
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9193
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE & PECHE" tvg-logo="http://one-iptv.com/imageslogo/ChassePeche.fr.png" group-title="FRANCE CULTURE",|FR| CHASSE & PECHE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15189
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASON" tvg-logo="http://one-iptv.com/logoX/franceculture/seasons.png" group-title="FRANCE CULTURE",|FR| SEASON
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9227
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT" tvg-logo="http://one-iptv.com/logoX/franceculture/crimedistrict.png" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9296
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE" tvg-logo="http://one-iptv.com/logoX/franceculture/histoire.png" group-title="FRANCE CULTURE",|FR| HISTOIRE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15158
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksuWW76biUritd1x05hcTNOMmQ_N6ztozc62Q3lQ8sFljTRzY0O0rlMZG&s" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ORANGE COMMENT C'EST FAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesBIQoxPEatzo4TD33YGlyKLOV23zQjXncRv-3zIV4jSHkmJRxfUxfA" group-title="FRANCE CULTURE",|FR| ORANGE COMMENT C'EST FAIT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15236
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="|FR| RMC STORY" tvg-logo="http://one-iptv.com/imageslogo/RMCStory.fr.png" group-title="FRANCE CULTURE",|FR| RMC STORY
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/118366
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE" tvg-logo="http://one-iptv.com/imageslogo/PlanetePlus.fr.png" group-title="FRANCE CULTURE",|FR| PLANETE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9236
+#EXTINF:-1 tvg-id="Eurochannel.fr" tvg-name="|FR| EURONEWS" tvg-logo="http://one-iptv.com/logoX/newsenfant/euronew.png" group-title="FRANCE NEWS",|FR| EURONEWS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9376
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="|FR| FRANCE 24" tvg-logo="http://one-iptv.com/logoX/francetnt/france24.png" group-title="FRANCE NEWS",|FR| FRANCE 24
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9197
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="|FR| FRANCE INFO" tvg-logo="http://one-iptv.com/logoX/francetnt/franceinfo.png" group-title="FRANCE NEWS",|FR| FRANCE INFO
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15166
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="|FR| I24 NEWS" tvg-logo="http://one-iptv.com/logoX/newsenfant/i24news.png" group-title="FRANCE NEWS",|FR| I24 NEWS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/97583
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV" tvg-logo="http://one-iptv.com/logoX/newsenfant/BFM.png" group-title="FRANCE NEWS",|FR| BFM TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9336
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="|FR| BFM BUSINESS" tvg-logo="http://one-iptv.com/logoX/newsenfant/BFMBUSINESS.png" group-title="FRANCE NEWS",|FR| BFM BUSINESS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9338
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="|FR| LCI" tvg-logo="http://one-iptv.com/logoX/newsenfant/LCI.png" group-title="FRANCE NEWS",|FR| LCI
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| C NEWS" tvg-logo="http://one-iptv.com/imageslogo/CNews.fr.png" group-title="FRANCE NEWS",|FR| C NEWS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BFM PARIS" tvg-logo="http://one-iptv.com/imageslogo/BFMParis.fr.png" group-title="FRANCE NEWS",|FR| BFM PARIS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/115444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| IDF 1" tvg-logo="http://one-iptv.com/imageslogo/pu_france3.png" group-title="FRANCE NEWS",|FR| IDF 1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/117962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BFM NICE Full HD" tvg-logo="" group-title="FRANCE NEWS",|FR| BFM NICE Full HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="FRANCE NEWS",|FR| TOP SANTE TV HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PITCHOUN HD" tvg-logo="" group-title="FRANCE NEWS",|FR| PITCHOUN HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| 01 TV" tvg-logo="" group-title="FRANCE NEWS",|FR| 01 TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| GINX" tvg-logo="" group-title="FRANCE NEWS",|FR| GINX
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TéLé NANTES" tvg-logo="" group-title="FRANCE NEWS",|FR| TéLé NANTES
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TéLé PAESE" tvg-logo="" group-title="FRANCE NEWS",|FR| TéLé PAESE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VIA ANGERS" tvg-logo="" group-title="FRANCE NEWS",|FR| VIA ANGERS
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126654
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VIA VOGES" tvg-logo="" group-title="FRANCE NEWS",|FR| VIA VOGES
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MARTIMA TV" tvg-logo="" group-title="FRANCE NEWS",|FR| MARTIMA TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126656
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VIA MIRABELLE" tvg-logo="" group-title="FRANCE NEWS",|FR| VIA MIRABELLE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV MOZAIK" tvg-logo="" group-title="FRANCE NEWS",|FR| TV MOZAIK
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TVT" tvg-logo="" group-title="FRANCE NEWS",|FR| TVT
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV7" tvg-logo="" group-title="FRANCE NEWS",|FR| TV7
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV8 MOSELLE" tvg-logo="" group-title="FRANCE NEWS",|FR| TV8 MOSELLE
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MYZEN TV" tvg-logo="" group-title="FRANCE NEWS",|FR| MYZEN TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| LUXE TV" tvg-logo="" group-title="FRANCE NEWS",|FR| LUXE TV
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MEN'S UP" tvg-logo="" group-title="FRANCE NEWS",|FR| MEN'S UP
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/126665
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/m6%20music.png" group-title="FRANCE MUSIC",|FR| M6 MUSIC FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15153
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE NAIJA FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/traceurban.png" group-title="FRANCE MUSIC",|FR| TRACE NAIJA FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9207
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE TOCA FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/traceurban.png" group-title="FRANCE MUSIC",|FR| TRACE TOCA FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15218
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE MZIKI FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/traceurban.png" group-title="FRANCE MUSIC",|FR| TRACE MZIKI FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9493
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV HITS HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mtv.png" group-title="FRANCE MUSIC",|FR| MTV HITS HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15146
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV HITS FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mtv.png" group-title="FRANCE MUSIC",|FR| MTV HITS FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9525
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| MCM HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mcm.png" group-title="FRANCE MUSIC",|FR| MCM HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15151
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| MCM TOP HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mcm%20tup.png" group-title="FRANCE MUSIC",|FR| MCM TOP HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9255
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="|FR| RFM TV HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/rfm.png" group-title="FRANCE MUSIC",|FR| RFM TV HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15132
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/rfm.png" group-title="FRANCE MUSIC",|FR| RFM TV FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://one-iptv.com/imageslogo/pu_nrjhits.png" group-title="FRANCE MUSIC",|FR| NRJ HITS HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51113
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_nrjhits.png" group-title="FRANCE MUSIC",|FR| NRJ HITS FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9249
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="|FR| MEZZO HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mezzo.png" group-title="FRANCE MUSIC",|FR| MEZZO HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15149
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="|FR| MEZZO LIVE HD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mezzolive.png" group-title="FRANCE MUSIC",|FR| MEZZO LIVE HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/15148
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| BET" tvg-logo="http://one-iptv.com/imageslogo/BET.fr.png" group-title="FRANCE MUSIC",|FR| BET
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9256
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| BET FHD" tvg-logo="http://one-iptv.com/imageslogo/BET.fr.png" group-title="FRANCE MUSIC",|FR| BET FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/9529
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MTV FHD" tvg-logo="http://one-iptv.com/imageslogo/MTV.es.png" group-title="FRANCE MUSIC",|FR| MTV FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MTV HD" tvg-logo="http://one-iptv.com/imageslogo/MTV.es.png" group-title="FRANCE MUSIC",|FR| MTV HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://one-iptv.com/logoX/musicfrance/mcm%20tup.png" group-title="FRANCE MUSIC",|FR| MCM TOP FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CLIQUE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx30Ewh-oDkFnGCGsA9XPeOucAaAq0r7D5JrlwhKlUE5pp1_DFhEfbvek&s" group-title="FRANCE MUSIC",|FR| CLIQUE TV HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/57520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TRACE LATINA FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_E5_66_53_CE40000_0_0_0.png" group-title="FRANCE MUSIC",|FR| TRACE LATINA FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VH1" tvg-logo="http://one-iptv.com/imageslogo/VH1.it.png" group-title="FRANCE MUSIC",|FR| VH1
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VH1 CLASSIC" tvg-logo="http://one-iptv.com/imageslogo/VH1.it.png" group-title="FRANCE MUSIC",|FR| VH1 CLASSIC
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62923
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MELODY HD" tvg-logo="http://one-iptv.com/imageslogo/Melody.fr.png" group-title="FRANCE MUSIC",|FR| MELODY HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/51115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DJAZZ TV FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_djazztv.png" group-title="FRANCE MUSIC",|FR| DJAZZ TV FHD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/62924
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| TRACE Tropical HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Trace_Tropical.svg/1200px-Trace_Tropical.svg.png" group-title="FRANCE MUSIC",|FR| TRACE Tropical HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/119330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bblack CARIBBEAN TV HD" tvg-logo="https://www.bblackafrica-tv.com/wp-content/uploads/2018/02/les-logos-bblack-caribbean-300x124.png" group-title="FRANCE MUSIC",Bblack CARIBBEAN TV HD
+http://t24.viptvpro.com:25443/VC1V2KIMJoI/LUgFXJPdPV/119331
