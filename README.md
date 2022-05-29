@@ -1,2 +1,1 @@
-# iptv
-okokokoko
+miragedz.github.io/iptv/
